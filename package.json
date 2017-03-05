@@ -1,10 +1,8 @@
 {
 	"name": "google-fonts-complete",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "A complete list of Google Fonts and their sources",
-	"keywords": ["google", "web", "fonts", "complete", "families", "family", "styles", "variants", "weights"],
 	"main": "./google-fonts.json",
-	"author": "Jonathan Neal <jonathantneal@hotmail.com> (http://jonathantneal.com)",
 	"license": "CC0-1.0",
 	"homepage": "https://github.com/jonathantneal/google-fonts-complete",
 	"bugs": {
@@ -15,6 +13,6 @@
 		"url": "https://github.com/jonathantneal/google-fonts-complete.git"
 	},
 	"dependencies": {
-		"postcss": "^5.2.8"
+		"postcss": "^5.2.15"
 	}
 }
