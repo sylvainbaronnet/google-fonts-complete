@@ -3529,7 +3529,7 @@
 						"svg": "http://fonts.gstatic.com/l/font?kit=o7BEIK-fG3Ykc5Rzteh88ULb1GOZhot8_EfYnySu9MY&skey=cb465f0d8f628d06&v=v4#AveriaSansLibre",
 						"ttf": "http://fonts.gstatic.com/s/averiasanslibre/v4/o7BEIK-fG3Ykc5Rzteh88cK1OonvZ4BbNrtvLBuG6Oo.ttf",
 						"woff": "http://fonts.gstatic.com/s/averiasanslibre/v4/o7BEIK-fG3Ykc5Rzteh88QJL7NOZp8eSaCZz-rd3Fm8.woff",
-						"woff2": "http://fonts.gstatic.com/s/averiasanslibre/v4/o7BEIK-fG3Ykc5Rzteh88YCrS3mRKslbT_6zMFa4Fn4.woff2"
+						"woff2": "http://fonts.gstatic.com/stats/Averia+Sans+Libre/italic/700"
 					}
 				}
 			},
@@ -9760,7 +9760,7 @@
 						"svg": "http://fonts.gstatic.com/l/font?kit=NoBzLUSg1MN4jwJlioOF9vesZW2xOQ-xsNqO47m55DA&skey=128fcbeca8646941&v=v4#Eczar",
 						"ttf": "http://fonts.gstatic.com/s/eczar/v4/T0qRTVJuIoBHnXEUGksKI_esZW2xOQ-xsNqO47m55DA.ttf",
 						"woff": "http://fonts.gstatic.com/s/eczar/v4/yx073MZxFh7pVYGB8Y7oMPesZW2xOQ-xsNqO47m55DA.woff",
-						"woff2": "http://fonts.gstatic.com/s/eczar/v4/h-_hRQTHwOzhzdaLhA66n_esZW2xOQ-xsNqO47m55DA.woff2"
+						"woff2": "http://fonts.gstatic.com/stats/Eczar/normal/600"
 					}
 				},
 				"700": {
@@ -11887,11 +11887,11 @@
 						"'Fruktur-Regular'"
 					],
 					"url": {
-						"eot": "http://fonts.gstatic.com/s/fruktur/v8/OQ63_pW64ihXF_04WhWZ_w.eot",
-						"svg": "http://fonts.gstatic.com/l/font?kit=dNGrdkHRRs41sZgqekVlsA&skey=2938d85b2577c941&v=v8#Fruktur",
-						"ttf": "http://fonts.gstatic.com/s/fruktur/v8/7DvQjQT1eyMMabJQtbOTYw.ttf",
-						"woff": "http://fonts.gstatic.com/s/fruktur/v8/wW9QEJ2KEYS75opRHz2YTg.woff",
-						"woff2": "http://fonts.gstatic.com/s/fruktur/v8/GzfYV5tEJQgnhy9LNDFueg.woff2"
+						"eot": "http://fonts.gstatic.com/s/fruktur/v9/OQ63_pW64ihXF_04WhWZ_w.eot",
+						"svg": "http://fonts.gstatic.com/l/font?kit=dNGrdkHRRs41sZgqekVlsA&skey=2938d85b2577c941&v=v9#Fruktur",
+						"ttf": "http://fonts.gstatic.com/s/fruktur/v9/7DvQjQT1eyMMabJQtbOTYw.ttf",
+						"woff": "http://fonts.gstatic.com/s/fruktur/v9/wW9QEJ2KEYS75opRHz2YTg.woff",
+						"woff2": "http://fonts.gstatic.com/s/fruktur/v9/GzfYV5tEJQgnhy9LNDFueg.woff2"
 					}
 				}
 			}
@@ -11941,7 +11941,7 @@
 						"svg": "http://fonts.gstatic.com/l/font?kit=kgB1tTolMAtObthCjddbcQ&skey=e557a45a8e5b3a1b&v=v6#GFSDidot",
 						"ttf": "http://fonts.gstatic.com/s/gfsdidot/v6/jQKxZy2RU-h9tkPZcRVluA.ttf",
 						"woff": "http://fonts.gstatic.com/s/gfsdidot/v6/JBubNrFihEk1sFMZEvXXHQ.woff",
-						"woff2": "http://fonts.gstatic.com/stats/GFS+Didot/normal/400"
+						"woff2": "http://fonts.gstatic.com/s/gfsdidot/v6/JGMMXLSKnta8tgBslucoDBJtnKITppOI_IvcXXDNrsc.woff2"
 					}
 				}
 			}
@@ -23249,7 +23249,7 @@
 						"svg": "http://fonts.gstatic.com/l/font?kit=Q-gJrFokeE7JydPpxASt20IQMNW6FbPaxUUUgd67Juk&skey=dca78bc6106fe068&v=v9#PTSansCaption",
 						"ttf": "http://fonts.gstatic.com/s/ptsanscaption/v9/Q-gJrFokeE7JydPpxASt20ERdfSURLZv58OmP7NOrmM.ttf",
 						"woff": "http://fonts.gstatic.com/s/ptsanscaption/v9/Q-gJrFokeE7JydPpxASt2w9wu1CdFtjuMIsaFqyYbWg.woff",
-						"woff2": "http://fonts.gstatic.com/s/ptsanscaption/v9/Q-gJrFokeE7JydPpxASt2-AG5JKECrpbRn4WyrgqwBM.woff2"
+						"woff2": "http://fonts.gstatic.com/stats/PT+Sans+Caption/normal/700"
 					}
 				}
 			}
