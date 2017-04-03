@@ -3529,7 +3529,7 @@
 						"svg": "http://fonts.gstatic.com/l/font?kit=o7BEIK-fG3Ykc5Rzteh88ULb1GOZhot8_EfYnySu9MY&skey=cb465f0d8f628d06&v=v4#AveriaSansLibre",
 						"ttf": "http://fonts.gstatic.com/s/averiasanslibre/v4/o7BEIK-fG3Ykc5Rzteh88cK1OonvZ4BbNrtvLBuG6Oo.ttf",
 						"woff": "http://fonts.gstatic.com/s/averiasanslibre/v4/o7BEIK-fG3Ykc5Rzteh88QJL7NOZp8eSaCZz-rd3Fm8.woff",
-						"woff2": "http://fonts.gstatic.com/stats/Averia+Sans+Libre/italic/700"
+						"woff2": "http://fonts.gstatic.com/s/averiasanslibre/v4/o7BEIK-fG3Ykc5Rzteh88YCrS3mRKslbT_6zMFa4Fn4.woff2"
 					}
 				}
 			},
@@ -5793,11 +5793,11 @@
 						"'CantoraOne-Regular'"
 					],
 					"url": {
-						"eot": "http://fonts.gstatic.com/s/cantoraone/v5/2Tarv7Qs4oCEU-xItQ7PXWfQcKutQXcIrRfyR5jdjY8.eot",
-						"svg": "http://fonts.gstatic.com/l/font?kit=2Tarv7Qs4oCEU-xItQ7PXXNsigHlcrQGNV8nkUSFQfc&skey=e3630653699ec3bd&v=v5#CantoraOne",
-						"ttf": "http://fonts.gstatic.com/s/cantoraone/v5/2Tarv7Qs4oCEU-xItQ7PXZ0EAVxt0G0biEntp43Qt6E.ttf",
-						"woff": "http://fonts.gstatic.com/s/cantoraone/v5/2Tarv7Qs4oCEU-xItQ7PXYbN6UDyHWBl620a-IRfuBk.woff",
-						"woff2": "http://fonts.gstatic.com/s/cantoraone/v5/2Tarv7Qs4oCEU-xItQ7PXY4P5ICox8Kq3LLUNMylGO4.woff2"
+						"eot": "http://fonts.gstatic.com/s/cantoraone/v6/2Tarv7Qs4oCEU-xItQ7PXWfQcKutQXcIrRfyR5jdjY8.eot",
+						"svg": "http://fonts.gstatic.com/l/font?kit=2Tarv7Qs4oCEU-xItQ7PXXNsigHlcrQGNV8nkUSFQfc&skey=e3630653699ec3bd&v=v6#CantoraOne",
+						"ttf": "http://fonts.gstatic.com/s/cantoraone/v6/2Tarv7Qs4oCEU-xItQ7PXZ0EAVxt0G0biEntp43Qt6E.ttf",
+						"woff": "http://fonts.gstatic.com/s/cantoraone/v6/2Tarv7Qs4oCEU-xItQ7PXYbN6UDyHWBl620a-IRfuBk.woff",
+						"woff2": "http://fonts.gstatic.com/s/cantoraone/v6/2Tarv7Qs4oCEU-xItQ7PXY4P5ICox8Kq3LLUNMylGO4.woff2"
 					}
 				}
 			}
@@ -6002,11 +6002,11 @@
 						"'Catamaran-Thin'"
 					],
 					"url": {
-						"eot": "http://fonts.gstatic.com/s/catamaran/v1/AsJXcel0VOprDS7k9OVAc2fQcKutQXcIrRfyR5jdjY8.eot",
-						"svg": "http://fonts.gstatic.com/l/font?kit=AsJXcel0VOprDS7k9OVAc3NsigHlcrQGNV8nkUSFQfc&skey=a9b56938d2f1cef2&v=v1#Catamaran",
-						"ttf": "http://fonts.gstatic.com/s/catamaran/v1/AsJXcel0VOprDS7k9OVAc50EAVxt0G0biEntp43Qt6E.ttf",
-						"woff": "http://fonts.gstatic.com/s/catamaran/v1/AsJXcel0VOprDS7k9OVAc4bN6UDyHWBl620a-IRfuBk.woff",
-						"woff2": "http://fonts.gstatic.com/s/catamaran/v1/AsJXcel0VOprDS7k9OVAc44P5ICox8Kq3LLUNMylGO4.woff2"
+						"eot": "http://fonts.gstatic.com/s/catamaran/v2/AsJXcel0VOprDS7k9OVAc2fQcKutQXcIrRfyR5jdjY8.eot",
+						"svg": "http://fonts.gstatic.com/l/font?kit=AsJXcel0VOprDS7k9OVAc3NsigHlcrQGNV8nkUSFQfc&skey=a9b56938d2f1cef2&v=v2#Catamaran",
+						"ttf": "http://fonts.gstatic.com/s/catamaran/v2/AsJXcel0VOprDS7k9OVAc50EAVxt0G0biEntp43Qt6E.ttf",
+						"woff": "http://fonts.gstatic.com/s/catamaran/v2/AsJXcel0VOprDS7k9OVAc4bN6UDyHWBl620a-IRfuBk.woff",
+						"woff2": "http://fonts.gstatic.com/s/catamaran/v2/AsJXcel0VOprDS7k9OVAc44P5ICox8Kq3LLUNMylGO4.woff2"
 					}
 				},
 				"200": {
@@ -6015,11 +6015,11 @@
 						"'Catamaran-ExtraLight'"
 					],
 					"url": {
-						"eot": "http://fonts.gstatic.com/s/catamaran/v1/hFc-HKSsGk6M-psujei1MHZ2MAKAc2x4R1uOSeegc5U.eot",
-						"svg": "http://fonts.gstatic.com/l/font?kit=hFc-HKSsGk6M-psujei1MFlIn5tFQcqMuf-jhyJP0ps&skey=94ef7a70ab64c3a3&v=v1#Catamaran",
-						"ttf": "http://fonts.gstatic.com/s/catamaran/v1/hFc-HKSsGk6M-psujei1MInF5uFdDttMLvmWuJdhhgs.ttf",
-						"woff": "http://fonts.gstatic.com/s/catamaran/v1/hFc-HKSsGk6M-psujei1MHhCUOGz7vYGh680lGh-uXM.woff",
-						"woff2": "http://fonts.gstatic.com/s/catamaran/v1/hFc-HKSsGk6M-psujei1MOgdm0LZdjqr5-oayXSOefg.woff2"
+						"eot": "http://fonts.gstatic.com/s/catamaran/v2/hFc-HKSsGk6M-psujei1MHZ2MAKAc2x4R1uOSeegc5U.eot",
+						"svg": "http://fonts.gstatic.com/l/font?kit=hFc-HKSsGk6M-psujei1MFlIn5tFQcqMuf-jhyJP0ps&skey=94ef7a70ab64c3a3&v=v2#Catamaran",
+						"ttf": "http://fonts.gstatic.com/s/catamaran/v2/hFc-HKSsGk6M-psujei1MInF5uFdDttMLvmWuJdhhgs.ttf",
+						"woff": "http://fonts.gstatic.com/s/catamaran/v2/hFc-HKSsGk6M-psujei1MHhCUOGz7vYGh680lGh-uXM.woff",
+						"woff2": "http://fonts.gstatic.com/s/catamaran/v2/hFc-HKSsGk6M-psujei1MOgdm0LZdjqr5-oayXSOefg.woff2"
 					}
 				},
 				"300": {
@@ -6028,11 +6028,11 @@
 						"'Catamaran-Light'"
 					],
 					"url": {
-						"eot": "http://fonts.gstatic.com/s/catamaran/v1/Aaag4ccR7Oh_4eai-jbrYHZ2MAKAc2x4R1uOSeegc5U.eot",
-						"svg": "http://fonts.gstatic.com/l/font?kit=Aaag4ccR7Oh_4eai-jbrYFlIn5tFQcqMuf-jhyJP0ps&skey=4b5f965596e3b29f&v=v1#Catamaran",
-						"ttf": "http://fonts.gstatic.com/s/catamaran/v1/Aaag4ccR7Oh_4eai-jbrYInF5uFdDttMLvmWuJdhhgs.ttf",
-						"woff": "http://fonts.gstatic.com/s/catamaran/v1/Aaag4ccR7Oh_4eai-jbrYHhCUOGz7vYGh680lGh-uXM.woff",
-						"woff2": "http://fonts.gstatic.com/s/catamaran/v1/Aaag4ccR7Oh_4eai-jbrYOgdm0LZdjqr5-oayXSOefg.woff2"
+						"eot": "http://fonts.gstatic.com/s/catamaran/v2/Aaag4ccR7Oh_4eai-jbrYHZ2MAKAc2x4R1uOSeegc5U.eot",
+						"svg": "http://fonts.gstatic.com/l/font?kit=Aaag4ccR7Oh_4eai-jbrYFlIn5tFQcqMuf-jhyJP0ps&skey=4b5f965596e3b29f&v=v2#Catamaran",
+						"ttf": "http://fonts.gstatic.com/s/catamaran/v2/Aaag4ccR7Oh_4eai-jbrYInF5uFdDttMLvmWuJdhhgs.ttf",
+						"woff": "http://fonts.gstatic.com/s/catamaran/v2/Aaag4ccR7Oh_4eai-jbrYHhCUOGz7vYGh680lGh-uXM.woff",
+						"woff2": "http://fonts.gstatic.com/s/catamaran/v2/Aaag4ccR7Oh_4eai-jbrYOgdm0LZdjqr5-oayXSOefg.woff2"
 					}
 				},
 				"400": {
@@ -6041,11 +6041,11 @@
 						"'Catamaran-Regular'"
 					],
 					"url": {
-						"eot": "http://fonts.gstatic.com/s/catamaran/v1/iVYgK2bOLvZcSxr0ITOecvY6323mHUZFJMgTvxaG2iE.eot",
-						"svg": "http://fonts.gstatic.com/l/font?kit=iVYgK2bOLvZcSxr0ITOecpbd9NUM7myrQQz30yPaGQ4&skey=309d941a05fc0762&v=v1#Catamaran",
-						"ttf": "http://fonts.gstatic.com/s/catamaran/v1/iVYgK2bOLvZcSxr0ITOecqCWcynf_cDxXwCLxiixG1c.ttf",
-						"woff": "http://fonts.gstatic.com/s/catamaran/v1/iVYgK2bOLvZcSxr0ITOecj8E0i7KZn-EPnyo3HZu7kw.woff",
-						"woff2": "http://fonts.gstatic.com/s/catamaran/v1/iVYgK2bOLvZcSxr0ITOecltXRa8TVwTICgirnJhmVJw.woff2"
+						"eot": "http://fonts.gstatic.com/s/catamaran/v2/iVYgK2bOLvZcSxr0ITOecvY6323mHUZFJMgTvxaG2iE.eot",
+						"svg": "http://fonts.gstatic.com/l/font?kit=iVYgK2bOLvZcSxr0ITOecpbd9NUM7myrQQz30yPaGQ4&skey=309d941a05fc0762&v=v2#Catamaran",
+						"ttf": "http://fonts.gstatic.com/s/catamaran/v2/iVYgK2bOLvZcSxr0ITOecqCWcynf_cDxXwCLxiixG1c.ttf",
+						"woff": "http://fonts.gstatic.com/s/catamaran/v2/iVYgK2bOLvZcSxr0ITOecj8E0i7KZn-EPnyo3HZu7kw.woff",
+						"woff2": "http://fonts.gstatic.com/s/catamaran/v2/iVYgK2bOLvZcSxr0ITOecltXRa8TVwTICgirnJhmVJw.woff2"
 					}
 				},
 				"500": {
@@ -6054,11 +6054,11 @@
 						"'Catamaran-Medium'"
 					],
 					"url": {
-						"eot": "http://fonts.gstatic.com/s/catamaran/v1/83WSX3F86qsvj1Z4EI0tQnZ2MAKAc2x4R1uOSeegc5U.eot",
-						"svg": "http://fonts.gstatic.com/l/font?kit=83WSX3F86qsvj1Z4EI0tQllIn5tFQcqMuf-jhyJP0ps&skey=1f7c0bfcad7e7889&v=v1#Catamaran",
-						"ttf": "http://fonts.gstatic.com/s/catamaran/v1/83WSX3F86qsvj1Z4EI0tQonF5uFdDttMLvmWuJdhhgs.ttf",
-						"woff": "http://fonts.gstatic.com/s/catamaran/v1/83WSX3F86qsvj1Z4EI0tQnhCUOGz7vYGh680lGh-uXM.woff",
-						"woff2": "http://fonts.gstatic.com/s/catamaran/v1/83WSX3F86qsvj1Z4EI0tQugdm0LZdjqr5-oayXSOefg.woff2"
+						"eot": "http://fonts.gstatic.com/s/catamaran/v2/83WSX3F86qsvj1Z4EI0tQnZ2MAKAc2x4R1uOSeegc5U.eot",
+						"svg": "http://fonts.gstatic.com/l/font?kit=83WSX3F86qsvj1Z4EI0tQllIn5tFQcqMuf-jhyJP0ps&skey=1f7c0bfcad7e7889&v=v2#Catamaran",
+						"ttf": "http://fonts.gstatic.com/s/catamaran/v2/83WSX3F86qsvj1Z4EI0tQonF5uFdDttMLvmWuJdhhgs.ttf",
+						"woff": "http://fonts.gstatic.com/s/catamaran/v2/83WSX3F86qsvj1Z4EI0tQnhCUOGz7vYGh680lGh-uXM.woff",
+						"woff2": "http://fonts.gstatic.com/s/catamaran/v2/83WSX3F86qsvj1Z4EI0tQugdm0LZdjqr5-oayXSOefg.woff2"
 					}
 				},
 				"600": {
@@ -6067,11 +6067,11 @@
 						"'Catamaran-SemiBold'"
 					],
 					"url": {
-						"eot": "http://fonts.gstatic.com/s/catamaran/v1/a9PlHHnuBWiGGk0TwuFKTnZ2MAKAc2x4R1uOSeegc5U.eot",
-						"svg": "http://fonts.gstatic.com/l/font?kit=a9PlHHnuBWiGGk0TwuFKTllIn5tFQcqMuf-jhyJP0ps&skey=6135f1cc0c1b3810&v=v1#Catamaran",
-						"ttf": "http://fonts.gstatic.com/s/catamaran/v1/a9PlHHnuBWiGGk0TwuFKTonF5uFdDttMLvmWuJdhhgs.ttf",
-						"woff": "http://fonts.gstatic.com/s/catamaran/v1/a9PlHHnuBWiGGk0TwuFKTnhCUOGz7vYGh680lGh-uXM.woff",
-						"woff2": "http://fonts.gstatic.com/s/catamaran/v1/a9PlHHnuBWiGGk0TwuFKTugdm0LZdjqr5-oayXSOefg.woff2"
+						"eot": "http://fonts.gstatic.com/s/catamaran/v2/a9PlHHnuBWiGGk0TwuFKTnZ2MAKAc2x4R1uOSeegc5U.eot",
+						"svg": "http://fonts.gstatic.com/l/font?kit=a9PlHHnuBWiGGk0TwuFKTllIn5tFQcqMuf-jhyJP0ps&skey=6135f1cc0c1b3810&v=v2#Catamaran",
+						"ttf": "http://fonts.gstatic.com/s/catamaran/v2/a9PlHHnuBWiGGk0TwuFKTonF5uFdDttMLvmWuJdhhgs.ttf",
+						"woff": "http://fonts.gstatic.com/s/catamaran/v2/a9PlHHnuBWiGGk0TwuFKTnhCUOGz7vYGh680lGh-uXM.woff",
+						"woff2": "http://fonts.gstatic.com/s/catamaran/v2/a9PlHHnuBWiGGk0TwuFKTugdm0LZdjqr5-oayXSOefg.woff2"
 					}
 				},
 				"700": {
@@ -6080,11 +6080,11 @@
 						"'Catamaran-Bold'"
 					],
 					"url": {
-						"eot": "http://fonts.gstatic.com/s/catamaran/v1/PpgVtUHUdnBZYNpnzGbSc3Z2MAKAc2x4R1uOSeegc5U.eot",
-						"svg": "http://fonts.gstatic.com/l/font?kit=PpgVtUHUdnBZYNpnzGbSc1lIn5tFQcqMuf-jhyJP0ps&skey=57b3a2830111dbc0&v=v1#Catamaran",
-						"ttf": "http://fonts.gstatic.com/s/catamaran/v1/PpgVtUHUdnBZYNpnzGbSc4nF5uFdDttMLvmWuJdhhgs.ttf",
-						"woff": "http://fonts.gstatic.com/s/catamaran/v1/PpgVtUHUdnBZYNpnzGbSc3hCUOGz7vYGh680lGh-uXM.woff",
-						"woff2": "http://fonts.gstatic.com/s/catamaran/v1/PpgVtUHUdnBZYNpnzGbSc-gdm0LZdjqr5-oayXSOefg.woff2"
+						"eot": "http://fonts.gstatic.com/s/catamaran/v2/PpgVtUHUdnBZYNpnzGbSc3Z2MAKAc2x4R1uOSeegc5U.eot",
+						"svg": "http://fonts.gstatic.com/l/font?kit=PpgVtUHUdnBZYNpnzGbSc1lIn5tFQcqMuf-jhyJP0ps&skey=57b3a2830111dbc0&v=v2#Catamaran",
+						"ttf": "http://fonts.gstatic.com/s/catamaran/v2/PpgVtUHUdnBZYNpnzGbSc4nF5uFdDttMLvmWuJdhhgs.ttf",
+						"woff": "http://fonts.gstatic.com/s/catamaran/v2/PpgVtUHUdnBZYNpnzGbSc3hCUOGz7vYGh680lGh-uXM.woff",
+						"woff2": "http://fonts.gstatic.com/s/catamaran/v2/PpgVtUHUdnBZYNpnzGbSc-gdm0LZdjqr5-oayXSOefg.woff2"
 					}
 				},
 				"800": {
@@ -6093,11 +6093,11 @@
 						"'Catamaran-ExtraBold'"
 					],
 					"url": {
-						"eot": "http://fonts.gstatic.com/s/catamaran/v1/6VjB_uSfn3DZ93IQv58CmHZ2MAKAc2x4R1uOSeegc5U.eot",
-						"svg": "http://fonts.gstatic.com/l/font?kit=6VjB_uSfn3DZ93IQv58CmFlIn5tFQcqMuf-jhyJP0ps&skey=474b56ec2b042111&v=v1#Catamaran",
-						"ttf": "http://fonts.gstatic.com/s/catamaran/v1/6VjB_uSfn3DZ93IQv58CmInF5uFdDttMLvmWuJdhhgs.ttf",
-						"woff": "http://fonts.gstatic.com/s/catamaran/v1/6VjB_uSfn3DZ93IQv58CmHhCUOGz7vYGh680lGh-uXM.woff",
-						"woff2": "http://fonts.gstatic.com/s/catamaran/v1/6VjB_uSfn3DZ93IQv58CmOgdm0LZdjqr5-oayXSOefg.woff2"
+						"eot": "http://fonts.gstatic.com/s/catamaran/v2/6VjB_uSfn3DZ93IQv58CmHZ2MAKAc2x4R1uOSeegc5U.eot",
+						"svg": "http://fonts.gstatic.com/l/font?kit=6VjB_uSfn3DZ93IQv58CmFlIn5tFQcqMuf-jhyJP0ps&skey=474b56ec2b042111&v=v2#Catamaran",
+						"ttf": "http://fonts.gstatic.com/s/catamaran/v2/6VjB_uSfn3DZ93IQv58CmInF5uFdDttMLvmWuJdhhgs.ttf",
+						"woff": "http://fonts.gstatic.com/s/catamaran/v2/6VjB_uSfn3DZ93IQv58CmHhCUOGz7vYGh680lGh-uXM.woff",
+						"woff2": "http://fonts.gstatic.com/s/catamaran/v2/6VjB_uSfn3DZ93IQv58CmOgdm0LZdjqr5-oayXSOefg.woff2"
 					}
 				},
 				"900": {
@@ -6106,11 +6106,11 @@
 						"'Catamaran-Black'"
 					],
 					"url": {
-						"eot": "http://fonts.gstatic.com/s/catamaran/v1/5ys9TqpQc9Q6gHqbSox6p3Z2MAKAc2x4R1uOSeegc5U.eot",
-						"svg": "http://fonts.gstatic.com/l/font?kit=5ys9TqpQc9Q6gHqbSox6p1lIn5tFQcqMuf-jhyJP0ps&skey=9770b7dd9fa233f5&v=v1#Catamaran",
-						"ttf": "http://fonts.gstatic.com/s/catamaran/v1/5ys9TqpQc9Q6gHqbSox6p4nF5uFdDttMLvmWuJdhhgs.ttf",
-						"woff": "http://fonts.gstatic.com/s/catamaran/v1/5ys9TqpQc9Q6gHqbSox6p3hCUOGz7vYGh680lGh-uXM.woff",
-						"woff2": "http://fonts.gstatic.com/s/catamaran/v1/5ys9TqpQc9Q6gHqbSox6p-gdm0LZdjqr5-oayXSOefg.woff2"
+						"eot": "http://fonts.gstatic.com/s/catamaran/v2/5ys9TqpQc9Q6gHqbSox6p3Z2MAKAc2x4R1uOSeegc5U.eot",
+						"svg": "http://fonts.gstatic.com/l/font?kit=5ys9TqpQc9Q6gHqbSox6p1lIn5tFQcqMuf-jhyJP0ps&skey=9770b7dd9fa233f5&v=v2#Catamaran",
+						"ttf": "http://fonts.gstatic.com/s/catamaran/v2/5ys9TqpQc9Q6gHqbSox6p4nF5uFdDttMLvmWuJdhhgs.ttf",
+						"woff": "http://fonts.gstatic.com/s/catamaran/v2/5ys9TqpQc9Q6gHqbSox6p3hCUOGz7vYGh680lGh-uXM.woff",
+						"woff2": "http://fonts.gstatic.com/s/catamaran/v2/5ys9TqpQc9Q6gHqbSox6p-gdm0LZdjqr5-oayXSOefg.woff2"
 					}
 				}
 			}
@@ -9760,7 +9760,7 @@
 						"svg": "http://fonts.gstatic.com/l/font?kit=NoBzLUSg1MN4jwJlioOF9vesZW2xOQ-xsNqO47m55DA&skey=128fcbeca8646941&v=v4#Eczar",
 						"ttf": "http://fonts.gstatic.com/s/eczar/v4/T0qRTVJuIoBHnXEUGksKI_esZW2xOQ-xsNqO47m55DA.ttf",
 						"woff": "http://fonts.gstatic.com/s/eczar/v4/yx073MZxFh7pVYGB8Y7oMPesZW2xOQ-xsNqO47m55DA.woff",
-						"woff2": "http://fonts.gstatic.com/stats/Eczar/normal/600"
+						"woff2": "http://fonts.gstatic.com/s/eczar/v4/h-_hRQTHwOzhzdaLhA66n_esZW2xOQ-xsNqO47m55DA.woff2"
 					}
 				},
 				"700": {
@@ -23249,7 +23249,7 @@
 						"svg": "http://fonts.gstatic.com/l/font?kit=Q-gJrFokeE7JydPpxASt20IQMNW6FbPaxUUUgd67Juk&skey=dca78bc6106fe068&v=v9#PTSansCaption",
 						"ttf": "http://fonts.gstatic.com/s/ptsanscaption/v9/Q-gJrFokeE7JydPpxASt20ERdfSURLZv58OmP7NOrmM.ttf",
 						"woff": "http://fonts.gstatic.com/s/ptsanscaption/v9/Q-gJrFokeE7JydPpxASt2w9wu1CdFtjuMIsaFqyYbWg.woff",
-						"woff2": "http://fonts.gstatic.com/stats/PT+Sans+Caption/normal/700"
+						"woff2": "http://fonts.gstatic.com/s/ptsanscaption/v9/Q-gJrFokeE7JydPpxASt2-AG5JKECrpbRn4WyrgqwBM.woff2"
 					}
 				}
 			}
