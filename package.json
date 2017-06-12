@@ -1,6 +1,6 @@
 {
 	"name": "google-fonts-complete",
-	"version": "1.1.4",
+	"version": "1.1.5",
 	"description": "A complete list of Google Fonts and their sources",
 	"main": "./google-fonts.json",
 	"license": "CC0-1.0",
