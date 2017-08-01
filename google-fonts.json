@@ -548,7 +548,7 @@
 						"svg": "http://fonts.gstatic.com/l/font?kit=IWi8e5bpnqhMRsZKTcTUWj9QLNJZUvW8xv4RpDkyVDQ&skey=946bf86ea46b6b75&v=v8#Alegreya",
 						"ttf": "http://fonts.gstatic.com/s/alegreya/v8/IWi8e5bpnqhMRsZKTcTUWvEr6Hm6RMS0v1dtXsGir4g.ttf",
 						"woff": "http://fonts.gstatic.com/s/alegreya/v8/IWi8e5bpnqhMRsZKTcTUWgFhaRv2pGgT5Kf0An0s4MM.woff",
-						"woff2": "http://fonts.gstatic.com/stats/Alegreya/italic/700"
+						"woff2": "http://fonts.gstatic.com/s/alegreya/v8/IWi8e5bpnqhMRsZKTcTUWoWiMMZ7xLd792ULpGE4W_Y.woff2"
 					}
 				},
 				"900": {
@@ -787,7 +787,7 @@
 						"svg": "http://fonts.gstatic.com/l/font?kit=WfiXipsmjqRqsDBQ1bA9CrV2oPa1rBRc7g2EizsiWjA&skey=dd8d3088bec4f2ac&v=v4#AlegreyaSans",
 						"ttf": "http://fonts.gstatic.com/s/alegreyasans/v4/WfiXipsmjqRqsDBQ1bA9Cs6zOI0pjlStGO1UwdkVvsA.ttf",
 						"woff": "http://fonts.gstatic.com/s/alegreyasans/v4/WfiXipsmjqRqsDBQ1bA9CrCg-HxJJqxN4VXdlZqPV8c.woff",
-						"woff2": "http://fonts.gstatic.com/s/alegreyasans/v4/WfiXipsmjqRqsDBQ1bA9CtoLup_JzTqNKwLJ6RzBh8g.woff2"
+						"woff2": "http://fonts.gstatic.com/stats/Alegreya+Sans/italic/800"
 					}
 				},
 				"900": {
@@ -10332,11 +10332,11 @@
 						"'Exo-ThinItalic'"
 					],
 					"url": {
-						"eot": "http://fonts.gstatic.com/s/exo/v4/ogJI9GcDrrdUNfxuCUzX2A.eot",
-						"svg": "http://fonts.gstatic.com/l/font?kit=TrlXfQd1QcyRg_HCCXv_WA&skey=3a0a54bdb7dec61e&v=v4#Exo",
-						"ttf": "http://fonts.gstatic.com/s/exo/v4/4_gM-2xprP9aijXPNKBsdw.ttf",
-						"woff": "http://fonts.gstatic.com/s/exo/v4/-KJ68G4vOQ0iT-Z_CUBd8g.woff",
-						"woff2": "http://fonts.gstatic.com/s/exo/v4/0FowQzHsbSUXYXQSNXDxZQ.woff2"
+						"eot": "http://fonts.gstatic.com/s/exo/v5/ogJI9GcDrrdUNfxuCUzX2A.eot",
+						"svg": "http://fonts.gstatic.com/l/font?kit=TrlXfQd1QcyRg_HCCXv_WA&skey=3a0a54bdb7dec61e&v=v5#Exo",
+						"ttf": "http://fonts.gstatic.com/s/exo/v5/4_gM-2xprP9aijXPNKBsdw.ttf",
+						"woff": "http://fonts.gstatic.com/s/exo/v5/-KJ68G4vOQ0iT-Z_CUBd8g.woff",
+						"woff2": "http://fonts.gstatic.com/s/exo/v5/0FowQzHsbSUXYXQSNXDxZQ.woff2"
 					}
 				},
 				"200": {
@@ -10345,11 +10345,11 @@
 						"'Exo-ExtraLightItalic'"
 					],
 					"url": {
-						"eot": "http://fonts.gstatic.com/s/exo/v4/bPaOoFN460bwbLDC1739p_esZW2xOQ-xsNqO47m55DA.eot",
-						"svg": "http://fonts.gstatic.com/l/font?kit=ZS4g5weXE5xx8I3SUy5a2vesZW2xOQ-xsNqO47m55DA&skey=bb8551abc124e341&v=v4#Exo",
-						"ttf": "http://fonts.gstatic.com/s/exo/v4/KZkPTFM02P3uTVfiDk6i2_esZW2xOQ-xsNqO47m55DA.ttf",
-						"woff": "http://fonts.gstatic.com/s/exo/v4/nNEH4yXWO5IRvRnrB8N0o_esZW2xOQ-xsNqO47m55DA.woff",
-						"woff2": "http://fonts.gstatic.com/s/exo/v4/ksgOZSvBz0KxrfGBw7dPafesZW2xOQ-xsNqO47m55DA.woff2"
+						"eot": "http://fonts.gstatic.com/s/exo/v5/bPaOoFN460bwbLDC1739p_esZW2xOQ-xsNqO47m55DA.eot",
+						"svg": "http://fonts.gstatic.com/l/font?kit=ZS4g5weXE5xx8I3SUy5a2vesZW2xOQ-xsNqO47m55DA&skey=bb8551abc124e341&v=v5#Exo",
+						"ttf": "http://fonts.gstatic.com/s/exo/v5/KZkPTFM02P3uTVfiDk6i2_esZW2xOQ-xsNqO47m55DA.ttf",
+						"woff": "http://fonts.gstatic.com/s/exo/v5/nNEH4yXWO5IRvRnrB8N0o_esZW2xOQ-xsNqO47m55DA.woff",
+						"woff2": "http://fonts.gstatic.com/s/exo/v5/ksgOZSvBz0KxrfGBw7dPafesZW2xOQ-xsNqO47m55DA.woff2"
 					}
 				},
 				"300": {
@@ -10358,11 +10358,11 @@
 						"'Exo-LightItalic'"
 					],
 					"url": {
-						"eot": "http://fonts.gstatic.com/s/exo/v4/9Eh3TQAsmD4fal8OOPuTa_esZW2xOQ-xsNqO47m55DA.eot",
-						"svg": "http://fonts.gstatic.com/l/font?kit=5htIOIG6yi1A-jDKqXwfb_esZW2xOQ-xsNqO47m55DA&skey=c913fe6886eb11a6&v=v4#Exo",
-						"ttf": "http://fonts.gstatic.com/s/exo/v4/FO--mEKyXT4ugIkHKUxgOvesZW2xOQ-xsNqO47m55DA.ttf",
-						"woff": "http://fonts.gstatic.com/s/exo/v4/MvuC31KewP-QFsxbMzfMJfesZW2xOQ-xsNqO47m55DA.woff",
-						"woff2": "http://fonts.gstatic.com/s/exo/v4/03NQSoZ7CsKvmGnpKsEEM_esZW2xOQ-xsNqO47m55DA.woff2"
+						"eot": "http://fonts.gstatic.com/s/exo/v5/9Eh3TQAsmD4fal8OOPuTa_esZW2xOQ-xsNqO47m55DA.eot",
+						"svg": "http://fonts.gstatic.com/l/font?kit=5htIOIG6yi1A-jDKqXwfb_esZW2xOQ-xsNqO47m55DA&skey=c913fe6886eb11a6&v=v5#Exo",
+						"ttf": "http://fonts.gstatic.com/s/exo/v5/FO--mEKyXT4ugIkHKUxgOvesZW2xOQ-xsNqO47m55DA.ttf",
+						"woff": "http://fonts.gstatic.com/s/exo/v5/MvuC31KewP-QFsxbMzfMJfesZW2xOQ-xsNqO47m55DA.woff",
+						"woff2": "http://fonts.gstatic.com/s/exo/v5/03NQSoZ7CsKvmGnpKsEEM_esZW2xOQ-xsNqO47m55DA.woff2"
 					}
 				},
 				"400": {
@@ -10371,11 +10371,11 @@
 						"'Exo-Italic'"
 					],
 					"url": {
-						"eot": "http://fonts.gstatic.com/s/exo/v4/j5-A0SDRUMMsVNSIuqr_tg.eot",
-						"svg": "http://fonts.gstatic.com/l/font?kit=w2BntWMuc0Fmk5BM15fQmg&skey=2161cc604861ac4f&v=v4#Exo",
-						"ttf": "http://fonts.gstatic.com/s/exo/v4/ouqjB58-qIbIc6tNtOafrA.ttf",
-						"woff": "http://fonts.gstatic.com/s/exo/v4/SrRPhC0khZfK-pbowUGBAw.woff",
-						"woff2": "http://fonts.gstatic.com/s/exo/v4/OYgAYULBTKMJJUVQZpJ1ug.woff2"
+						"eot": "http://fonts.gstatic.com/s/exo/v5/j5-A0SDRUMMsVNSIuqr_tg.eot",
+						"svg": "http://fonts.gstatic.com/l/font?kit=w2BntWMuc0Fmk5BM15fQmg&skey=2161cc604861ac4f&v=v5#Exo",
+						"ttf": "http://fonts.gstatic.com/s/exo/v5/ouqjB58-qIbIc6tNtOafrA.ttf",
+						"woff": "http://fonts.gstatic.com/s/exo/v5/SrRPhC0khZfK-pbowUGBAw.woff",
+						"woff2": "http://fonts.gstatic.com/s/exo/v5/OYgAYULBTKMJJUVQZpJ1ug.woff2"
 					}
 				},
 				"500": {
@@ -10384,24 +10384,24 @@
 						"'Exo-MediumItalic'"
 					],
 					"url": {
-						"eot": "http://fonts.gstatic.com/s/exo/v4/iV35VkJ8WH4-QDb34ffvQPesZW2xOQ-xsNqO47m55DA.eot",
-						"svg": "http://fonts.gstatic.com/l/font?kit=NJYki527kG7jl0ctdQ8j9fesZW2xOQ-xsNqO47m55DA&skey=53fc48e2860c5a9b&v=v4#Exo",
-						"ttf": "http://fonts.gstatic.com/s/exo/v4/EirSuhHc5LPsqOkwuKdd8PesZW2xOQ-xsNqO47m55DA.ttf",
-						"woff": "http://fonts.gstatic.com/s/exo/v4/1LnzhM6dYPICwfoM9MfuCvesZW2xOQ-xsNqO47m55DA.woff",
-						"woff2": "http://fonts.gstatic.com/s/exo/v4/gt2C348WKP6Tg5YiMi0znPesZW2xOQ-xsNqO47m55DA.woff2"
+						"eot": "http://fonts.gstatic.com/s/exo/v5/iV35VkJ8WH4-QDb34ffvQPesZW2xOQ-xsNqO47m55DA.eot",
+						"svg": "http://fonts.gstatic.com/l/font?kit=NJYki527kG7jl0ctdQ8j9fesZW2xOQ-xsNqO47m55DA&skey=53fc48e2860c5a9b&v=v5#Exo",
+						"ttf": "http://fonts.gstatic.com/s/exo/v5/EirSuhHc5LPsqOkwuKdd8PesZW2xOQ-xsNqO47m55DA.ttf",
+						"woff": "http://fonts.gstatic.com/s/exo/v5/1LnzhM6dYPICwfoM9MfuCvesZW2xOQ-xsNqO47m55DA.woff",
+						"woff2": "http://fonts.gstatic.com/s/exo/v5/gt2C348WKP6Tg5YiMi0znPesZW2xOQ-xsNqO47m55DA.woff2"
 					}
 				},
 				"600": {
 					"local": [
-						"'Exo DemiBold Italic'",
-						"'Exo-DemiBoldItalic'"
+						"'Exo SemiBold Italic'",
+						"'Exo-SemiBoldItalic'"
 					],
 					"url": {
-						"eot": "http://fonts.gstatic.com/s/exo/v4/MoN1T7I1tnJv0ZaLPHngrPesZW2xOQ-xsNqO47m55DA.eot",
-						"svg": "http://fonts.gstatic.com/l/font?kit=EtJyIugLkIFZCX5jf1pIG_esZW2xOQ-xsNqO47m55DA&skey=471edf49a1304d68&v=v4#Exo",
-						"ttf": "http://fonts.gstatic.com/s/exo/v4/Ek_R6ngmT59El5kpkoxOePesZW2xOQ-xsNqO47m55DA.ttf",
-						"woff": "http://fonts.gstatic.com/s/exo/v4/cS7UYuQb9nyqGPgy45MPV_esZW2xOQ-xsNqO47m55DA.woff",
-						"woff2": "http://fonts.gstatic.com/s/exo/v4/cvUEH30wvJ41QjMDDF8gS_esZW2xOQ-xsNqO47m55DA.woff2"
+						"eot": "http://fonts.gstatic.com/s/exo/v5/MoN1T7I1tnJv0ZaLPHngrPesZW2xOQ-xsNqO47m55DA.eot",
+						"svg": "http://fonts.gstatic.com/l/font?kit=EtJyIugLkIFZCX5jf1pIG_esZW2xOQ-xsNqO47m55DA&skey=471edf49a1304d68&v=v5#Exo",
+						"ttf": "http://fonts.gstatic.com/s/exo/v5/Ek_R6ngmT59El5kpkoxOePesZW2xOQ-xsNqO47m55DA.ttf",
+						"woff": "http://fonts.gstatic.com/s/exo/v5/cS7UYuQb9nyqGPgy45MPV_esZW2xOQ-xsNqO47m55DA.woff",
+						"woff2": "http://fonts.gstatic.com/s/exo/v5/cvUEH30wvJ41QjMDDF8gS_esZW2xOQ-xsNqO47m55DA.woff2"
 					}
 				},
 				"700": {
@@ -10410,11 +10410,11 @@
 						"'Exo-BoldItalic'"
 					],
 					"url": {
-						"eot": "http://fonts.gstatic.com/s/exo/v4/w1T345y6R264yP2x7dODNfesZW2xOQ-xsNqO47m55DA.eot",
-						"svg": "http://fonts.gstatic.com/l/font?kit=oUSh_mPyt1UTq5MsK7LcmfesZW2xOQ-xsNqO47m55DA&skey=8a55f10e7b609870&v=v4#Exo",
-						"ttf": "http://fonts.gstatic.com/s/exo/v4/SCJ8lcLktXFnX90KWp_oHPesZW2xOQ-xsNqO47m55DA.ttf",
-						"woff": "http://fonts.gstatic.com/s/exo/v4/ENjw15vOU74UM6LyiOhPTvesZW2xOQ-xsNqO47m55DA.woff",
-						"woff2": "http://fonts.gstatic.com/s/exo/v4/RUd6U3c1BMbwtyTv2U6XJfesZW2xOQ-xsNqO47m55DA.woff2"
+						"eot": "http://fonts.gstatic.com/s/exo/v5/w1T345y6R264yP2x7dODNfesZW2xOQ-xsNqO47m55DA.eot",
+						"svg": "http://fonts.gstatic.com/l/font?kit=oUSh_mPyt1UTq5MsK7LcmfesZW2xOQ-xsNqO47m55DA&skey=8a55f10e7b609870&v=v5#Exo",
+						"ttf": "http://fonts.gstatic.com/s/exo/v5/SCJ8lcLktXFnX90KWp_oHPesZW2xOQ-xsNqO47m55DA.ttf",
+						"woff": "http://fonts.gstatic.com/s/exo/v5/ENjw15vOU74UM6LyiOhPTvesZW2xOQ-xsNqO47m55DA.woff",
+						"woff2": "http://fonts.gstatic.com/s/exo/v5/RUd6U3c1BMbwtyTv2U6XJfesZW2xOQ-xsNqO47m55DA.woff2"
 					}
 				},
 				"800": {
@@ -10423,11 +10423,11 @@
 						"'Exo-ExtraBoldItalic'"
 					],
 					"url": {
-						"eot": "http://fonts.gstatic.com/s/exo/v4/iB-Gkexg6ZMds7bgbjLbGvesZW2xOQ-xsNqO47m55DA.eot",
-						"svg": "http://fonts.gstatic.com/l/font?kit=sz26T5cwQICVvUeISfqLD_esZW2xOQ-xsNqO47m55DA&skey=7e2ab59806b31a20&v=v4#Exo",
-						"ttf": "http://fonts.gstatic.com/s/exo/v4/mdnzu29W-cFZeYROHmmUVfesZW2xOQ-xsNqO47m55DA.ttf",
-						"woff": "http://fonts.gstatic.com/s/exo/v4/OxHvdhxScdJBgJvW3f2di_esZW2xOQ-xsNqO47m55DA.woff",
-						"woff2": "http://fonts.gstatic.com/s/exo/v4/VOUNauBNZHRPXwo-B101VvesZW2xOQ-xsNqO47m55DA.woff2"
+						"eot": "http://fonts.gstatic.com/s/exo/v5/iB-Gkexg6ZMds7bgbjLbGvesZW2xOQ-xsNqO47m55DA.eot",
+						"svg": "http://fonts.gstatic.com/l/font?kit=sz26T5cwQICVvUeISfqLD_esZW2xOQ-xsNqO47m55DA&skey=7e2ab59806b31a20&v=v5#Exo",
+						"ttf": "http://fonts.gstatic.com/s/exo/v5/mdnzu29W-cFZeYROHmmUVfesZW2xOQ-xsNqO47m55DA.ttf",
+						"woff": "http://fonts.gstatic.com/s/exo/v5/OxHvdhxScdJBgJvW3f2di_esZW2xOQ-xsNqO47m55DA.woff",
+						"woff2": "http://fonts.gstatic.com/s/exo/v5/VOUNauBNZHRPXwo-B101VvesZW2xOQ-xsNqO47m55DA.woff2"
 					}
 				},
 				"900": {
@@ -10436,11 +10436,11 @@
 						"'Exo-BlackItalic'"
 					],
 					"url": {
-						"eot": "http://fonts.gstatic.com/s/exo/v4/R_-He4veb-vmLJRHMeMXKfesZW2xOQ-xsNqO47m55DA.eot",
-						"svg": "http://fonts.gstatic.com/l/font?kit=pe-_l207gGXlFf0J9PjL0PesZW2xOQ-xsNqO47m55DA&skey=fe9831c0ffbd860f&v=v4#Exo",
-						"ttf": "http://fonts.gstatic.com/s/exo/v4/i-d6hMaRtGJeX1Ae4vloR_esZW2xOQ-xsNqO47m55DA.ttf",
-						"woff": "http://fonts.gstatic.com/s/exo/v4/3cavH_EZOAWIiny3PJAOYfesZW2xOQ-xsNqO47m55DA.woff",
-						"woff2": "http://fonts.gstatic.com/s/exo/v4/Js4AswrKxFUW89UW03LfJvesZW2xOQ-xsNqO47m55DA.woff2"
+						"eot": "http://fonts.gstatic.com/s/exo/v5/R_-He4veb-vmLJRHMeMXKfesZW2xOQ-xsNqO47m55DA.eot",
+						"svg": "http://fonts.gstatic.com/l/font?kit=pe-_l207gGXlFf0J9PjL0PesZW2xOQ-xsNqO47m55DA&skey=fe9831c0ffbd860f&v=v5#Exo",
+						"ttf": "http://fonts.gstatic.com/s/exo/v5/i-d6hMaRtGJeX1Ae4vloR_esZW2xOQ-xsNqO47m55DA.ttf",
+						"woff": "http://fonts.gstatic.com/s/exo/v5/3cavH_EZOAWIiny3PJAOYfesZW2xOQ-xsNqO47m55DA.woff",
+						"woff2": "http://fonts.gstatic.com/s/exo/v5/Js4AswrKxFUW89UW03LfJvesZW2xOQ-xsNqO47m55DA.woff2"
 					}
 				}
 			},
@@ -10451,11 +10451,11 @@
 						"'Exo-Thin'"
 					],
 					"url": {
-						"eot": "http://fonts.gstatic.com/s/exo/v4/VOjseMs0W_ksoG9OL6sjpQ.eot",
-						"svg": "http://fonts.gstatic.com/l/font?kit=f4pHyNkoi9ECgBVkeShzug&skey=150f29d0dd342204&v=v4#Exo",
-						"ttf": "http://fonts.gstatic.com/s/exo/v4/Zr0MbJYTAN-HcZ_bTgvIlw.ttf",
-						"woff": "http://fonts.gstatic.com/s/exo/v4/qyfp0OSqk7TET2opvcMBmw.woff",
-						"woff2": "http://fonts.gstatic.com/s/exo/v4/bSEuBfAK9i16rKak_EdKNA.woff2"
+						"eot": "http://fonts.gstatic.com/s/exo/v5/VOjseMs0W_ksoG9OL6sjpQ.eot",
+						"svg": "http://fonts.gstatic.com/l/font?kit=f4pHyNkoi9ECgBVkeShzug&skey=150f29d0dd342204&v=v5#Exo",
+						"ttf": "http://fonts.gstatic.com/s/exo/v5/Zr0MbJYTAN-HcZ_bTgvIlw.ttf",
+						"woff": "http://fonts.gstatic.com/s/exo/v5/qyfp0OSqk7TET2opvcMBmw.woff",
+						"woff2": "http://fonts.gstatic.com/s/exo/v5/bSEuBfAK9i16rKak_EdKNA.woff2"
 					}
 				},
 				"200": {
@@ -10464,11 +10464,11 @@
 						"'Exo-ExtraLight'"
 					],
 					"url": {
-						"eot": "http://fonts.gstatic.com/s/exo/v4/6qQWt5DRe819A_OLSfea_g.eot",
-						"svg": "http://fonts.gstatic.com/l/font?kit=TtvTjj7-3Dy7gGqp7SBstA&skey=2558ecaabf36cab6&v=v4#Exo",
-						"ttf": "http://fonts.gstatic.com/s/exo/v4/CMKhhPu7qcBoVeO_FVLYTg.ttf",
-						"woff": "http://fonts.gstatic.com/s/exo/v4/z1hPnoJcXaXYata_d2utlw.woff",
-						"woff2": "http://fonts.gstatic.com/s/exo/v4/lA-XzkxvFbAS7qSN5Rm7dw.woff2"
+						"eot": "http://fonts.gstatic.com/s/exo/v5/6qQWt5DRe819A_OLSfea_g.eot",
+						"svg": "http://fonts.gstatic.com/l/font?kit=TtvTjj7-3Dy7gGqp7SBstA&skey=2558ecaabf36cab6&v=v5#Exo",
+						"ttf": "http://fonts.gstatic.com/s/exo/v5/CMKhhPu7qcBoVeO_FVLYTg.ttf",
+						"woff": "http://fonts.gstatic.com/s/exo/v5/z1hPnoJcXaXYata_d2utlw.woff",
+						"woff2": "http://fonts.gstatic.com/s/exo/v5/lA-XzkxvFbAS7qSN5Rm7dw.woff2"
 					}
 				},
 				"300": {
@@ -10477,11 +10477,11 @@
 						"'Exo-Light'"
 					],
 					"url": {
-						"eot": "http://fonts.gstatic.com/s/exo/v4/f7h3uM6Fc-o-wzyP4yY8ew.eot",
-						"svg": "http://fonts.gstatic.com/l/font?kit=8QOm49pxpxDNKkquzuhabA&skey=6eae7d942f52dbe4&v=v4#Exo",
-						"ttf": "http://fonts.gstatic.com/s/exo/v4/dmD6gKcs59jrq1uKvTTMxQ.ttf",
-						"woff": "http://fonts.gstatic.com/s/exo/v4/q_s1igR8FunFvLlUJksouQ.woff",
-						"woff2": "http://fonts.gstatic.com/s/exo/v4/941bfrYtYbqlIetUPXD4ww.woff2"
+						"eot": "http://fonts.gstatic.com/s/exo/v5/f7h3uM6Fc-o-wzyP4yY8ew.eot",
+						"svg": "http://fonts.gstatic.com/l/font?kit=8QOm49pxpxDNKkquzuhabA&skey=6eae7d942f52dbe4&v=v5#Exo",
+						"ttf": "http://fonts.gstatic.com/s/exo/v5/dmD6gKcs59jrq1uKvTTMxQ.ttf",
+						"woff": "http://fonts.gstatic.com/s/exo/v5/q_s1igR8FunFvLlUJksouQ.woff",
+						"woff2": "http://fonts.gstatic.com/s/exo/v5/941bfrYtYbqlIetUPXD4ww.woff2"
 					}
 				},
 				"400": {
@@ -10490,11 +10490,11 @@
 						"'Exo-Regular'"
 					],
 					"url": {
-						"eot": "http://fonts.gstatic.com/s/exo/v4/dyHAhrKQv_y08D_BHFQ0zA.eot",
-						"svg": "http://fonts.gstatic.com/l/font?kit=cvTBUZIA6fkfZ-kQoUuiKg&skey=863005d54d49b6b0&v=v4#Exo",
-						"ttf": "http://fonts.gstatic.com/s/exo/v4/m5W5Curk5POZ4iQOoRn-Ug.ttf",
-						"woff": "http://fonts.gstatic.com/s/exo/v4/wocyXRLWPo2Av-yUTmmbTA.woff",
-						"woff2": "http://fonts.gstatic.com/s/exo/v4/kA_pX0U45Eb7PbHijV1x2w.woff2"
+						"eot": "http://fonts.gstatic.com/s/exo/v5/dyHAhrKQv_y08D_BHFQ0zA.eot",
+						"svg": "http://fonts.gstatic.com/l/font?kit=cvTBUZIA6fkfZ-kQoUuiKg&skey=863005d54d49b6b0&v=v5#Exo",
+						"ttf": "http://fonts.gstatic.com/s/exo/v5/m5W5Curk5POZ4iQOoRn-Ug.ttf",
+						"woff": "http://fonts.gstatic.com/s/exo/v5/wocyXRLWPo2Av-yUTmmbTA.woff",
+						"woff2": "http://fonts.gstatic.com/s/exo/v5/kA_pX0U45Eb7PbHijV1x2w.woff2"
 					}
 				},
 				"500": {
@@ -10503,24 +10503,24 @@
 						"'Exo-Medium'"
 					],
 					"url": {
-						"eot": "http://fonts.gstatic.com/s/exo/v4/8rLK3CifJ3ocszySMSwoLA.eot",
-						"svg": "http://fonts.gstatic.com/l/font?kit=nNXZdQktuiUx14gwTwBdnQ&skey=2072b70fe7bb0135&v=v4#Exo",
-						"ttf": "http://fonts.gstatic.com/s/exo/v4/9GQrDsQoLNPSbu4a8XkaZw.ttf",
-						"woff": "http://fonts.gstatic.com/s/exo/v4/yLVQVmQgTSUkafMu4HoVJA.woff",
-						"woff2": "http://fonts.gstatic.com/s/exo/v4/cfsS7mtf7BxCwNsl8jG12A.woff2"
+						"eot": "http://fonts.gstatic.com/s/exo/v5/8rLK3CifJ3ocszySMSwoLA.eot",
+						"svg": "http://fonts.gstatic.com/l/font?kit=nNXZdQktuiUx14gwTwBdnQ&skey=2072b70fe7bb0135&v=v5#Exo",
+						"ttf": "http://fonts.gstatic.com/s/exo/v5/9GQrDsQoLNPSbu4a8XkaZw.ttf",
+						"woff": "http://fonts.gstatic.com/s/exo/v5/yLVQVmQgTSUkafMu4HoVJA.woff",
+						"woff2": "http://fonts.gstatic.com/s/exo/v5/cfsS7mtf7BxCwNsl8jG12A.woff2"
 					}
 				},
 				"600": {
 					"local": [
-						"'Exo DemiBold'",
-						"'Exo-DemiBold'"
+						"'Exo SemiBold'",
+						"'Exo-SemiBold'"
 					],
 					"url": {
-						"eot": "http://fonts.gstatic.com/s/exo/v4/U0OOWpwWYfUE8Sb7dldpuQ.eot",
-						"svg": "http://fonts.gstatic.com/l/font?kit=zWsh8dtxPylcq0O0P4sPzw&skey=77e591a6753a9a2a&v=v4#Exo",
-						"ttf": "http://fonts.gstatic.com/s/exo/v4/BfPy-oLZyJitfovLhnoy1A.ttf",
-						"woff": "http://fonts.gstatic.com/s/exo/v4/yQnHD5L8a9aDb09o13m_pg.woff",
-						"woff2": "http://fonts.gstatic.com/s/exo/v4/7elr158u735yPgzh9pDCKA.woff2"
+						"eot": "http://fonts.gstatic.com/s/exo/v5/U0OOWpwWYfUE8Sb7dldpuQ.eot",
+						"svg": "http://fonts.gstatic.com/l/font?kit=zWsh8dtxPylcq0O0P4sPzw&skey=77e591a6753a9a2a&v=v5#Exo",
+						"ttf": "http://fonts.gstatic.com/s/exo/v5/BfPy-oLZyJitfovLhnoy1A.ttf",
+						"woff": "http://fonts.gstatic.com/s/exo/v5/yQnHD5L8a9aDb09o13m_pg.woff",
+						"woff2": "http://fonts.gstatic.com/s/exo/v5/7elr158u735yPgzh9pDCKA.woff2"
 					}
 				},
 				"700": {
@@ -10529,11 +10529,11 @@
 						"'Exo-Bold'"
 					],
 					"url": {
-						"eot": "http://fonts.gstatic.com/s/exo/v4/OqFmJmsFlYjHnwejpSKkeA.eot",
-						"svg": "http://fonts.gstatic.com/l/font?kit=Vwb9N8hmeDsYZStIPHxi2g&skey=6759387ed4e2b00a&v=v4#Exo",
-						"ttf": "http://fonts.gstatic.com/s/exo/v4/Pb-Tqi3xXEdTJ3ZTpmCsBw.ttf",
-						"woff": "http://fonts.gstatic.com/s/exo/v4/RokIQ-knd7LT9uhmuUjL2g.woff",
-						"woff2": "http://fonts.gstatic.com/s/exo/v4/brV063mXxrmTeVdLP9P6Kw.woff2"
+						"eot": "http://fonts.gstatic.com/s/exo/v5/OqFmJmsFlYjHnwejpSKkeA.eot",
+						"svg": "http://fonts.gstatic.com/l/font?kit=Vwb9N8hmeDsYZStIPHxi2g&skey=6759387ed4e2b00a&v=v5#Exo",
+						"ttf": "http://fonts.gstatic.com/s/exo/v5/Pb-Tqi3xXEdTJ3ZTpmCsBw.ttf",
+						"woff": "http://fonts.gstatic.com/s/exo/v5/RokIQ-knd7LT9uhmuUjL2g.woff",
+						"woff2": "http://fonts.gstatic.com/s/exo/v5/brV063mXxrmTeVdLP9P6Kw.woff2"
 					}
 				},
 				"800": {
@@ -10542,11 +10542,11 @@
 						"'Exo-ExtraBold'"
 					],
 					"url": {
-						"eot": "http://fonts.gstatic.com/s/exo/v4/_0lZ4rpzKoEeSwD2vr3bzw.eot",
-						"svg": "http://fonts.gstatic.com/l/font?kit=3XXMoq23EHjy-eUgMlTIHA&skey=c99d7166b365909a&v=v4#Exo",
-						"ttf": "http://fonts.gstatic.com/s/exo/v4/q6KmdSsfN6LEK-raIRJ77Q.ttf",
-						"woff": "http://fonts.gstatic.com/s/exo/v4/JZqdj-HRS4iJsSlrSwRCxA.woff",
-						"woff2": "http://fonts.gstatic.com/s/exo/v4/bxee2kBKNXMDa_dqwEq7Bg.woff2"
+						"eot": "http://fonts.gstatic.com/s/exo/v5/_0lZ4rpzKoEeSwD2vr3bzw.eot",
+						"svg": "http://fonts.gstatic.com/l/font?kit=3XXMoq23EHjy-eUgMlTIHA&skey=c99d7166b365909a&v=v5#Exo",
+						"ttf": "http://fonts.gstatic.com/s/exo/v5/q6KmdSsfN6LEK-raIRJ77Q.ttf",
+						"woff": "http://fonts.gstatic.com/s/exo/v5/JZqdj-HRS4iJsSlrSwRCxA.woff",
+						"woff2": "http://fonts.gstatic.com/s/exo/v5/bxee2kBKNXMDa_dqwEq7Bg.woff2"
 					}
 				},
 				"900": {
@@ -10555,11 +10555,11 @@
 						"'Exo-Black'"
 					],
 					"url": {
-						"eot": "http://fonts.gstatic.com/s/exo/v4/Z_9mpTFG4gyBbpuwvgPjcA.eot",
-						"svg": "http://fonts.gstatic.com/l/font?kit=1sappH6fyqUr7jS55g5ipg&skey=a6a95706168b5491&v=v4#Exo",
-						"ttf": "http://fonts.gstatic.com/s/exo/v4/1eQ4lxSu6Wlzo5DJtsj51w.ttf",
-						"woff": "http://fonts.gstatic.com/s/exo/v4/vUUX2FySly3npcleKTbosw.woff",
-						"woff2": "http://fonts.gstatic.com/s/exo/v4/zss5QirmJkYz6dW5juecsA.woff2"
+						"eot": "http://fonts.gstatic.com/s/exo/v5/Z_9mpTFG4gyBbpuwvgPjcA.eot",
+						"svg": "http://fonts.gstatic.com/l/font?kit=1sappH6fyqUr7jS55g5ipg&skey=a6a95706168b5491&v=v5#Exo",
+						"ttf": "http://fonts.gstatic.com/s/exo/v5/1eQ4lxSu6Wlzo5DJtsj51w.ttf",
+						"woff": "http://fonts.gstatic.com/s/exo/v5/vUUX2FySly3npcleKTbosw.woff",
+						"woff2": "http://fonts.gstatic.com/s/exo/v5/zss5QirmJkYz6dW5juecsA.woff2"
 					}
 				}
 			}
@@ -14047,7 +14047,7 @@
 						"svg": "http://fonts.gstatic.com/l/font?kit=h3Tn6yWfw4b5qaLD1RWvzyzd5uYN1HyQ6XK1g5bKvjA&skey=44cc57b48745e8ce&v=v6#IMFellEnglishSC",
 						"ttf": "http://fonts.gstatic.com/s/imfellenglishsc/v6/h3Tn6yWfw4b5qaLD1RWvz9gX5f6-V0DImePmAcKHNfQ.ttf",
 						"woff": "http://fonts.gstatic.com/s/imfellenglishsc/v6/h3Tn6yWfw4b5qaLD1RWvz2YU_NAY3j90c9z94KlCU1M.woff",
-						"woff2": "http://fonts.gstatic.com/s/imfellenglishsc/v6/h3Tn6yWfw4b5qaLD1RWvz4x48W_1RDVIUojTbGX9Iuk.woff2"
+						"woff2": "http://fonts.gstatic.com/stats/IM+Fell+English+SC/normal/400"
 					}
 				}
 			}
@@ -15249,7 +15249,7 @@
 						"svg": "http://fonts.gstatic.com/l/font?kit=l8K9GtHtbsx4mSrU04k_Nw&skey=47541d5d0acb64ae&v=v6#Julee",
 						"ttf": "http://fonts.gstatic.com/s/julee/v6/BPprKpUOjGsnv-V0GoDRdg.ttf",
 						"woff": "http://fonts.gstatic.com/s/julee/v6/rsTTzTiYEy37PYpNUTX4Uw.woff",
-						"woff2": "http://fonts.gstatic.com/stats/Julee/normal/400"
+						"woff2": "http://fonts.gstatic.com/s/julee/v6/8v12OmDsrehnrPxyjQD3xw.woff2"
 					}
 				}
 			}
@@ -18224,11 +18224,11 @@
 						"'Mada-Light'"
 					],
 					"url": {
-						"eot": "http://fonts.gstatic.com/s/mada/v2/1v20DeCoRxKcZ_thPX4dyw.eot",
-						"svg": "http://fonts.gstatic.com/l/font?kit=qYfv2Lm232zTUgZJaKnBFQ&skey=f8e2afa6af414101&v=v2#Mada",
-						"ttf": "http://fonts.gstatic.com/s/mada/v2/hGQI4s6nbiJXW--VK6C1UA.ttf",
-						"woff": "http://fonts.gstatic.com/s/mada/v2/ORNGpU7k-513g-ZmyYNUMw.woff",
-						"woff2": "http://fonts.gstatic.com/s/mada/v2/Ua7EYjkkqzoa7XCK4W9n9g.woff2"
+						"eot": "http://fonts.gstatic.com/s/mada/v3/1v20DeCoRxKcZ_thPX4dyw.eot",
+						"svg": "http://fonts.gstatic.com/l/font?kit=qYfv2Lm232zTUgZJaKnBFQ&skey=f8e2afa6af414101&v=v3#Mada",
+						"ttf": "http://fonts.gstatic.com/s/mada/v3/hGQI4s6nbiJXW--VK6C1UA.ttf",
+						"woff": "http://fonts.gstatic.com/s/mada/v3/ORNGpU7k-513g-ZmyYNUMw.woff",
+						"woff2": "http://fonts.gstatic.com/s/mada/v3/Ua7EYjkkqzoa7XCK4W9n9g.woff2"
 					}
 				},
 				"400": {
@@ -18237,11 +18237,11 @@
 						"'Mada-Regular'"
 					],
 					"url": {
-						"eot": "http://fonts.gstatic.com/s/mada/v2/5WqPfCXMmda88L7-hIJr-g.eot",
-						"svg": "http://fonts.gstatic.com/l/font?kit=bi7VGNNKDPu2JyMgkOuxLw&skey=5d0f924e6baf8e8f&v=v2#Mada",
-						"ttf": "http://fonts.gstatic.com/s/mada/v2/GWWDviP3jDHi2JloLuNfKg.ttf",
-						"woff": "http://fonts.gstatic.com/s/mada/v2/LRtAg3ziP_U-2_zWcXC2Eg.woff",
-						"woff2": "http://fonts.gstatic.com/s/mada/v2/4hbeUwgP_ZLmtOpiH4DXRA.woff2"
+						"eot": "http://fonts.gstatic.com/s/mada/v3/5WqPfCXMmda88L7-hIJr-g.eot",
+						"svg": "http://fonts.gstatic.com/l/font?kit=bi7VGNNKDPu2JyMgkOuxLw&skey=5d0f924e6baf8e8f&v=v3#Mada",
+						"ttf": "http://fonts.gstatic.com/s/mada/v3/GWWDviP3jDHi2JloLuNfKg.ttf",
+						"woff": "http://fonts.gstatic.com/s/mada/v3/LRtAg3ziP_U-2_zWcXC2Eg.woff",
+						"woff2": "http://fonts.gstatic.com/s/mada/v3/4hbeUwgP_ZLmtOpiH4DXRA.woff2"
 					}
 				},
 				"500": {
@@ -18250,11 +18250,11 @@
 						"'Mada-Medium'"
 					],
 					"url": {
-						"eot": "http://fonts.gstatic.com/s/mada/v2/y4Rk7gd1o-0KtSvd_dQZOA.eot",
-						"svg": "http://fonts.gstatic.com/l/font?kit=D3jaCPnpaVwHLEBYvUC_og&skey=379f582382d03f4f&v=v2#Mada",
-						"ttf": "http://fonts.gstatic.com/s/mada/v2/YYmJZ2kdAlIzEb0sDRYavQ.ttf",
-						"woff": "http://fonts.gstatic.com/s/mada/v2/Wjr9P1vRPGow7zxf4rH3Mg.woff",
-						"woff2": "http://fonts.gstatic.com/s/mada/v2/J5D5ndN1qc0Sc1nZImAttw.woff2"
+						"eot": "http://fonts.gstatic.com/s/mada/v3/y4Rk7gd1o-0KtSvd_dQZOA.eot",
+						"svg": "http://fonts.gstatic.com/l/font?kit=D3jaCPnpaVwHLEBYvUC_og&skey=379f582382d03f4f&v=v3#Mada",
+						"ttf": "http://fonts.gstatic.com/s/mada/v3/YYmJZ2kdAlIzEb0sDRYavQ.ttf",
+						"woff": "http://fonts.gstatic.com/s/mada/v3/Wjr9P1vRPGow7zxf4rH3Mg.woff",
+						"woff2": "http://fonts.gstatic.com/s/mada/v3/J5D5ndN1qc0Sc1nZImAttw.woff2"
 					}
 				},
 				"900": {
@@ -18263,11 +18263,11 @@
 						"'Mada-Black'"
 					],
 					"url": {
-						"eot": "http://fonts.gstatic.com/s/mada/v2/oeFaFz8vqSobEDPIAKz_jw.eot",
-						"svg": "http://fonts.gstatic.com/l/font?kit=LtI9faOlZcmtAeMv2fJmQA&skey=13b9c8de71716e3d&v=v2#Mada",
-						"ttf": "http://fonts.gstatic.com/s/mada/v2/ubzO7AoYlG_IgtXM7iblmw.ttf",
-						"woff": "http://fonts.gstatic.com/s/mada/v2/J5IkhneA7qWKcFPtCChDSA.woff",
-						"woff2": "http://fonts.gstatic.com/s/mada/v2/AI32djEW634klqLBD6QN2A.woff2"
+						"eot": "http://fonts.gstatic.com/s/mada/v3/oeFaFz8vqSobEDPIAKz_jw.eot",
+						"svg": "http://fonts.gstatic.com/l/font?kit=LtI9faOlZcmtAeMv2fJmQA&skey=13b9c8de71716e3d&v=v3#Mada",
+						"ttf": "http://fonts.gstatic.com/s/mada/v3/ubzO7AoYlG_IgtXM7iblmw.ttf",
+						"woff": "http://fonts.gstatic.com/s/mada/v3/J5IkhneA7qWKcFPtCChDSA.woff",
+						"woff2": "http://fonts.gstatic.com/s/mada/v3/AI32djEW634klqLBD6QN2A.woff2"
 					}
 				}
 			}
@@ -19637,7 +19637,7 @@
 						"svg": "http://fonts.gstatic.com/l/font?kit=0IZPA9DbzKXnGZABsAivT3NsigHlcrQGNV8nkUSFQfc&skey=b2c727d4404ede06&v=v9#Metrophobic",
 						"ttf": "http://fonts.gstatic.com/s/metrophobic/v9/0IZPA9DbzKXnGZABsAivT50EAVxt0G0biEntp43Qt6E.ttf",
 						"woff": "http://fonts.gstatic.com/s/metrophobic/v9/0IZPA9DbzKXnGZABsAivT4bN6UDyHWBl620a-IRfuBk.woff",
-						"woff2": "http://fonts.gstatic.com/s/metrophobic/v9/0IZPA9DbzKXnGZABsAivT44P5ICox8Kq3LLUNMylGO4.woff2"
+						"woff2": "http://fonts.gstatic.com/stats/Metrophobic/normal/400"
 					}
 				}
 			}
@@ -22468,14 +22468,14 @@
 				"300": {
 					"local": [
 						"'Open Sans Light Italic'",
-						"'OpenSansLight-Italic'"
+						"'OpenSans-LightItalic'"
 					],
 					"url": {
-						"eot": "http://fonts.gstatic.com/s/opensans/v13/PRmiXeptR36kaC0GEAetxrXcjzEax2LfQAlK8DdMzhA.eot",
-						"svg": "http://fonts.gstatic.com/l/font?kit=PRmiXeptR36kaC0GEAetxj4dnM32POWavC8T_whbZeI&skey=78fa527f8e87b8b8&v=v13#OpenSans",
-						"ttf": "http://fonts.gstatic.com/s/opensans/v13/PRmiXeptR36kaC0GEAetxrfB31yxOzP-czbf6AAKCVo.ttf",
-						"woff": "http://fonts.gstatic.com/s/opensans/v13/PRmiXeptR36kaC0GEAetxh_xHqYgAV9Bl_ZQbYUxnQU.woff",
-						"woff2": "http://fonts.gstatic.com/s/opensans/v13/PRmiXeptR36kaC0GEAetxko2lTMeWA_kmIyWrkNCwPc.woff2"
+						"eot": "http://fonts.gstatic.com/s/opensans/v14/PRmiXeptR36kaC0GEAetxrXcjzEax2LfQAlK8DdMzhA.eot",
+						"svg": "http://fonts.gstatic.com/l/font?kit=PRmiXeptR36kaC0GEAetxj4dnM32POWavC8T_whbZeI&skey=78fa527f8e87b8b8&v=v14#OpenSans",
+						"ttf": "http://fonts.gstatic.com/s/opensans/v14/PRmiXeptR36kaC0GEAetxrfB31yxOzP-czbf6AAKCVo.ttf",
+						"woff": "http://fonts.gstatic.com/s/opensans/v14/PRmiXeptR36kaC0GEAetxh_xHqYgAV9Bl_ZQbYUxnQU.woff",
+						"woff2": "http://fonts.gstatic.com/s/opensans/v14/PRmiXeptR36kaC0GEAetxko2lTMeWA_kmIyWrkNCwPc.woff2"
 					}
 				},
 				"400": {
@@ -22484,24 +22484,24 @@
 						"'OpenSans-Italic'"
 					],
 					"url": {
-						"eot": "http://fonts.gstatic.com/s/opensans/v13/xjAJXh38I15wypJXxuGMBmfQcKutQXcIrRfyR5jdjY8.eot",
-						"svg": "http://fonts.gstatic.com/l/font?kit=xjAJXh38I15wypJXxuGMBnNsigHlcrQGNV8nkUSFQfc&skey=743457fe2cc29280&v=v13#OpenSans",
-						"ttf": "http://fonts.gstatic.com/s/opensans/v13/xjAJXh38I15wypJXxuGMBp0EAVxt0G0biEntp43Qt6E.ttf",
-						"woff": "http://fonts.gstatic.com/s/opensans/v13/xjAJXh38I15wypJXxuGMBobN6UDyHWBl620a-IRfuBk.woff",
-						"woff2": "http://fonts.gstatic.com/s/opensans/v13/xjAJXh38I15wypJXxuGMBo4P5ICox8Kq3LLUNMylGO4.woff2"
+						"eot": "http://fonts.gstatic.com/s/opensans/v14/xjAJXh38I15wypJXxuGMBmfQcKutQXcIrRfyR5jdjY8.eot",
+						"svg": "http://fonts.gstatic.com/l/font?kit=xjAJXh38I15wypJXxuGMBnNsigHlcrQGNV8nkUSFQfc&skey=743457fe2cc29280&v=v14#OpenSans",
+						"ttf": "http://fonts.gstatic.com/s/opensans/v14/xjAJXh38I15wypJXxuGMBp0EAVxt0G0biEntp43Qt6E.ttf",
+						"woff": "http://fonts.gstatic.com/s/opensans/v14/xjAJXh38I15wypJXxuGMBobN6UDyHWBl620a-IRfuBk.woff",
+						"woff2": "http://fonts.gstatic.com/s/opensans/v14/xjAJXh38I15wypJXxuGMBo4P5ICox8Kq3LLUNMylGO4.woff2"
 					}
 				},
 				"600": {
 					"local": [
-						"'Open Sans Semibold Italic'",
-						"'OpenSans-SemiboldItalic'"
+						"'Open Sans SemiBold Italic'",
+						"'OpenSans-SemiBoldItalic'"
 					],
 					"url": {
-						"eot": "http://fonts.gstatic.com/s/opensans/v13/PRmiXeptR36kaC0GEAetxo8mkAiYpFywqG2RvpzBnTU.eot",
-						"svg": "http://fonts.gstatic.com/l/font?kit=PRmiXeptR36kaC0GEAetxuVmfClkf66xvxL1SWm4y8M&skey=5addd15a3a8d014a&v=v13#OpenSans",
-						"ttf": "http://fonts.gstatic.com/s/opensans/v13/PRmiXeptR36kaC0GEAetxi8cqLH4MEiSE0ROcU-qHOA.ttf",
-						"woff": "http://fonts.gstatic.com/s/opensans/v13/PRmiXeptR36kaC0GEAetxn5HxGBcBvicCpTp6spHfNo.woff",
-						"woff2": "http://fonts.gstatic.com/s/opensans/v13/PRmiXeptR36kaC0GEAetxl2umOyRU7PgRiv8DXcgJjk.woff2"
+						"eot": "http://fonts.gstatic.com/s/opensans/v14/PRmiXeptR36kaC0GEAetxo8mkAiYpFywqG2RvpzBnTU.eot",
+						"svg": "http://fonts.gstatic.com/l/font?kit=PRmiXeptR36kaC0GEAetxuVmfClkf66xvxL1SWm4y8M&skey=5addd15a3a8d014a&v=v14#OpenSans",
+						"ttf": "http://fonts.gstatic.com/s/opensans/v14/PRmiXeptR36kaC0GEAetxi8cqLH4MEiSE0ROcU-qHOA.ttf",
+						"woff": "http://fonts.gstatic.com/s/opensans/v14/PRmiXeptR36kaC0GEAetxn5HxGBcBvicCpTp6spHfNo.woff",
+						"woff2": "http://fonts.gstatic.com/s/opensans/v14/PRmiXeptR36kaC0GEAetxl2umOyRU7PgRiv8DXcgJjk.woff2"
 					}
 				},
 				"700": {
@@ -22510,24 +22510,24 @@
 						"'OpenSans-BoldItalic'"
 					],
 					"url": {
-						"eot": "http://fonts.gstatic.com/s/opensans/v13/PRmiXeptR36kaC0GEAetxrFt29aCHKT7otDW9l62Aag.eot",
-						"svg": "http://fonts.gstatic.com/l/font?kit=PRmiXeptR36kaC0GEAetxntNmQEE9wZ6UZlmiISB1pg&skey=7e5bb13249e84143&v=v13#OpenSans",
-						"ttf": "http://fonts.gstatic.com/s/opensans/v13/PRmiXeptR36kaC0GEAetxp_TkvowlIOtbR7ePgFOpF4.ttf",
-						"woff": "http://fonts.gstatic.com/s/opensans/v13/PRmiXeptR36kaC0GEAetxjqR_3kx9_hJXbbyU8S6IN0.woff",
-						"woff2": "http://fonts.gstatic.com/s/opensans/v13/PRmiXeptR36kaC0GEAetxolIZu-HDpmDIZMigmsroc4.woff2"
+						"eot": "http://fonts.gstatic.com/s/opensans/v14/PRmiXeptR36kaC0GEAetxrFt29aCHKT7otDW9l62Aag.eot",
+						"svg": "http://fonts.gstatic.com/l/font?kit=PRmiXeptR36kaC0GEAetxntNmQEE9wZ6UZlmiISB1pg&skey=7e5bb13249e84143&v=v14#OpenSans",
+						"ttf": "http://fonts.gstatic.com/s/opensans/v14/PRmiXeptR36kaC0GEAetxp_TkvowlIOtbR7ePgFOpF4.ttf",
+						"woff": "http://fonts.gstatic.com/s/opensans/v14/PRmiXeptR36kaC0GEAetxjqR_3kx9_hJXbbyU8S6IN0.woff",
+						"woff2": "http://fonts.gstatic.com/s/opensans/v14/PRmiXeptR36kaC0GEAetxolIZu-HDpmDIZMigmsroc4.woff2"
 					}
 				},
 				"800": {
 					"local": [
-						"'Open Sans Extrabold Italic'",
-						"'OpenSans-ExtraboldItalic'"
+						"'Open Sans ExtraBold Italic'",
+						"'OpenSans-ExtraBoldItalic'"
 					],
 					"url": {
-						"eot": "http://fonts.gstatic.com/s/opensans/v13/PRmiXeptR36kaC0GEAetxphT2rkLFFMVLymfgfmWVtI.eot",
-						"svg": "http://fonts.gstatic.com/l/font?kit=PRmiXeptR36kaC0GEAetxkWkFefV8YEa5Z9BVNHdJ6k&skey=d9bfcfc65fee79b7&v=v13#OpenSans",
-						"ttf": "http://fonts.gstatic.com/s/opensans/v13/PRmiXeptR36kaC0GEAetxlDMrAYtoOisqqMDW9M_Mqc.ttf",
-						"woff": "http://fonts.gstatic.com/s/opensans/v13/PRmiXeptR36kaC0GEAetxkCDe67GEgBv_HnyvHTfdew.woff",
-						"woff2": "http://fonts.gstatic.com/s/opensans/v13/PRmiXeptR36kaC0GEAetxnibbpXgLHK_uTT48UMyjSM.woff2"
+						"eot": "http://fonts.gstatic.com/s/opensans/v14/PRmiXeptR36kaC0GEAetxphT2rkLFFMVLymfgfmWVtI.eot",
+						"svg": "http://fonts.gstatic.com/l/font?kit=PRmiXeptR36kaC0GEAetxkWkFefV8YEa5Z9BVNHdJ6k&skey=d9bfcfc65fee79b7&v=v14#OpenSans",
+						"ttf": "http://fonts.gstatic.com/s/opensans/v14/PRmiXeptR36kaC0GEAetxlDMrAYtoOisqqMDW9M_Mqc.ttf",
+						"woff": "http://fonts.gstatic.com/s/opensans/v14/PRmiXeptR36kaC0GEAetxkCDe67GEgBv_HnyvHTfdew.woff",
+						"woff2": "http://fonts.gstatic.com/s/opensans/v14/PRmiXeptR36kaC0GEAetxnibbpXgLHK_uTT48UMyjSM.woff2"
 					}
 				}
 			},
@@ -22538,37 +22538,37 @@
 						"'OpenSans-Light'"
 					],
 					"url": {
-						"eot": "http://fonts.gstatic.com/s/opensans/v13/DXI1ORHCpsQm3Vp6mXoaTXZ2MAKAc2x4R1uOSeegc5U.eot",
-						"svg": "http://fonts.gstatic.com/l/font?kit=DXI1ORHCpsQm3Vp6mXoaTVlIn5tFQcqMuf-jhyJP0ps&skey=b33cc031a589c168&v=v13#OpenSans",
-						"ttf": "http://fonts.gstatic.com/s/opensans/v13/DXI1ORHCpsQm3Vp6mXoaTYnF5uFdDttMLvmWuJdhhgs.ttf",
-						"woff": "http://fonts.gstatic.com/s/opensans/v13/DXI1ORHCpsQm3Vp6mXoaTXhCUOGz7vYGh680lGh-uXM.woff",
-						"woff2": "http://fonts.gstatic.com/s/opensans/v13/DXI1ORHCpsQm3Vp6mXoaTegdm0LZdjqr5-oayXSOefg.woff2"
+						"eot": "http://fonts.gstatic.com/s/opensans/v14/DXI1ORHCpsQm3Vp6mXoaTXZ2MAKAc2x4R1uOSeegc5U.eot",
+						"svg": "http://fonts.gstatic.com/l/font?kit=DXI1ORHCpsQm3Vp6mXoaTVlIn5tFQcqMuf-jhyJP0ps&skey=b33cc031a589c168&v=v14#OpenSans",
+						"ttf": "http://fonts.gstatic.com/s/opensans/v14/DXI1ORHCpsQm3Vp6mXoaTYnF5uFdDttMLvmWuJdhhgs.ttf",
+						"woff": "http://fonts.gstatic.com/s/opensans/v14/DXI1ORHCpsQm3Vp6mXoaTXhCUOGz7vYGh680lGh-uXM.woff",
+						"woff2": "http://fonts.gstatic.com/s/opensans/v14/DXI1ORHCpsQm3Vp6mXoaTegdm0LZdjqr5-oayXSOefg.woff2"
 					}
 				},
 				"400": {
 					"local": [
-						"'Open Sans'",
-						"'OpenSans'"
+						"'Open Sans Regular'",
+						"'OpenSans-Regular'"
 					],
 					"url": {
-						"eot": "http://fonts.gstatic.com/s/opensans/v13/cJZKeOuBrn4kERxqtaUH3fY6323mHUZFJMgTvxaG2iE.eot",
-						"svg": "http://fonts.gstatic.com/l/font?kit=cJZKeOuBrn4kERxqtaUH3Zbd9NUM7myrQQz30yPaGQ4&skey=62c1cbfccc78b4b2&v=v13#OpenSans",
-						"ttf": "http://fonts.gstatic.com/s/opensans/v13/cJZKeOuBrn4kERxqtaUH3aCWcynf_cDxXwCLxiixG1c.ttf",
-						"woff": "http://fonts.gstatic.com/s/opensans/v13/cJZKeOuBrn4kERxqtaUH3T8E0i7KZn-EPnyo3HZu7kw.woff",
-						"woff2": "http://fonts.gstatic.com/s/opensans/v13/cJZKeOuBrn4kERxqtaUH3VtXRa8TVwTICgirnJhmVJw.woff2"
+						"eot": "http://fonts.gstatic.com/s/opensans/v14/cJZKeOuBrn4kERxqtaUH3fY6323mHUZFJMgTvxaG2iE.eot",
+						"svg": "http://fonts.gstatic.com/l/font?kit=cJZKeOuBrn4kERxqtaUH3Zbd9NUM7myrQQz30yPaGQ4&skey=62c1cbfccc78b4b2&v=v14#OpenSans",
+						"ttf": "http://fonts.gstatic.com/s/opensans/v14/cJZKeOuBrn4kERxqtaUH3aCWcynf_cDxXwCLxiixG1c.ttf",
+						"woff": "http://fonts.gstatic.com/s/opensans/v14/cJZKeOuBrn4kERxqtaUH3T8E0i7KZn-EPnyo3HZu7kw.woff",
+						"woff2": "http://fonts.gstatic.com/s/opensans/v14/cJZKeOuBrn4kERxqtaUH3VtXRa8TVwTICgirnJhmVJw.woff2"
 					}
 				},
 				"600": {
 					"local": [
-						"'Open Sans Semibold'",
-						"'OpenSans-Semibold'"
+						"'Open Sans SemiBold'",
+						"'OpenSans-SemiBold'"
 					],
 					"url": {
-						"eot": "http://fonts.gstatic.com/s/opensans/v13/MTP_ySUJH_bn48VBG8sNSnZ2MAKAc2x4R1uOSeegc5U.eot",
-						"svg": "http://fonts.gstatic.com/l/font?kit=MTP_ySUJH_bn48VBG8sNSllIn5tFQcqMuf-jhyJP0ps&skey=a162967ffaa5aa08&v=v13#OpenSans",
-						"ttf": "http://fonts.gstatic.com/s/opensans/v13/MTP_ySUJH_bn48VBG8sNSonF5uFdDttMLvmWuJdhhgs.ttf",
-						"woff": "http://fonts.gstatic.com/s/opensans/v13/MTP_ySUJH_bn48VBG8sNSnhCUOGz7vYGh680lGh-uXM.woff",
-						"woff2": "http://fonts.gstatic.com/s/opensans/v13/MTP_ySUJH_bn48VBG8sNSugdm0LZdjqr5-oayXSOefg.woff2"
+						"eot": "http://fonts.gstatic.com/s/opensans/v14/MTP_ySUJH_bn48VBG8sNSnZ2MAKAc2x4R1uOSeegc5U.eot",
+						"svg": "http://fonts.gstatic.com/l/font?kit=MTP_ySUJH_bn48VBG8sNSllIn5tFQcqMuf-jhyJP0ps&skey=a162967ffaa5aa08&v=v14#OpenSans",
+						"ttf": "http://fonts.gstatic.com/s/opensans/v14/MTP_ySUJH_bn48VBG8sNSonF5uFdDttMLvmWuJdhhgs.ttf",
+						"woff": "http://fonts.gstatic.com/s/opensans/v14/MTP_ySUJH_bn48VBG8sNSnhCUOGz7vYGh680lGh-uXM.woff",
+						"woff2": "http://fonts.gstatic.com/s/opensans/v14/MTP_ySUJH_bn48VBG8sNSugdm0LZdjqr5-oayXSOefg.woff2"
 					}
 				},
 				"700": {
@@ -22577,24 +22577,24 @@
 						"'OpenSans-Bold'"
 					],
 					"url": {
-						"eot": "http://fonts.gstatic.com/s/opensans/v13/k3k702ZOKiLJc3WVjuplzHZ2MAKAc2x4R1uOSeegc5U.eot",
-						"svg": "http://fonts.gstatic.com/l/font?kit=k3k702ZOKiLJc3WVjuplzFlIn5tFQcqMuf-jhyJP0ps&skey=cd9e1a36bb25a3c3&v=v13#OpenSans",
-						"ttf": "http://fonts.gstatic.com/s/opensans/v13/k3k702ZOKiLJc3WVjuplzInF5uFdDttMLvmWuJdhhgs.ttf",
-						"woff": "http://fonts.gstatic.com/s/opensans/v13/k3k702ZOKiLJc3WVjuplzHhCUOGz7vYGh680lGh-uXM.woff",
-						"woff2": "http://fonts.gstatic.com/s/opensans/v13/k3k702ZOKiLJc3WVjuplzOgdm0LZdjqr5-oayXSOefg.woff2"
+						"eot": "http://fonts.gstatic.com/s/opensans/v14/k3k702ZOKiLJc3WVjuplzHZ2MAKAc2x4R1uOSeegc5U.eot",
+						"svg": "http://fonts.gstatic.com/l/font?kit=k3k702ZOKiLJc3WVjuplzFlIn5tFQcqMuf-jhyJP0ps&skey=cd9e1a36bb25a3c3&v=v14#OpenSans",
+						"ttf": "http://fonts.gstatic.com/s/opensans/v14/k3k702ZOKiLJc3WVjuplzInF5uFdDttMLvmWuJdhhgs.ttf",
+						"woff": "http://fonts.gstatic.com/s/opensans/v14/k3k702ZOKiLJc3WVjuplzHhCUOGz7vYGh680lGh-uXM.woff",
+						"woff2": "http://fonts.gstatic.com/s/opensans/v14/k3k702ZOKiLJc3WVjuplzOgdm0LZdjqr5-oayXSOefg.woff2"
 					}
 				},
 				"800": {
 					"local": [
-						"'Open Sans Extrabold'",
-						"'OpenSans-Extrabold'"
+						"'Open Sans ExtraBold'",
+						"'OpenSans-ExtraBold'"
 					],
 					"url": {
-						"eot": "http://fonts.gstatic.com/s/opensans/v13/EInbV5DfGHOiMmvb1Xr-hnZ2MAKAc2x4R1uOSeegc5U.eot",
-						"svg": "http://fonts.gstatic.com/l/font?kit=EInbV5DfGHOiMmvb1Xr-hllIn5tFQcqMuf-jhyJP0ps&skey=c27b416055908855&v=v13#OpenSans",
-						"ttf": "http://fonts.gstatic.com/s/opensans/v13/EInbV5DfGHOiMmvb1Xr-honF5uFdDttMLvmWuJdhhgs.ttf",
-						"woff": "http://fonts.gstatic.com/s/opensans/v13/EInbV5DfGHOiMmvb1Xr-hnhCUOGz7vYGh680lGh-uXM.woff",
-						"woff2": "http://fonts.gstatic.com/s/opensans/v13/EInbV5DfGHOiMmvb1Xr-hugdm0LZdjqr5-oayXSOefg.woff2"
+						"eot": "http://fonts.gstatic.com/s/opensans/v14/EInbV5DfGHOiMmvb1Xr-hnZ2MAKAc2x4R1uOSeegc5U.eot",
+						"svg": "http://fonts.gstatic.com/l/font?kit=EInbV5DfGHOiMmvb1Xr-hllIn5tFQcqMuf-jhyJP0ps&skey=c27b416055908855&v=v14#OpenSans",
+						"ttf": "http://fonts.gstatic.com/s/opensans/v14/EInbV5DfGHOiMmvb1Xr-honF5uFdDttMLvmWuJdhhgs.ttf",
+						"woff": "http://fonts.gstatic.com/s/opensans/v14/EInbV5DfGHOiMmvb1Xr-hnhCUOGz7vYGh680lGh-uXM.woff",
+						"woff2": "http://fonts.gstatic.com/s/opensans/v14/EInbV5DfGHOiMmvb1Xr-hugdm0LZdjqr5-oayXSOefg.woff2"
 					}
 				}
 			}
@@ -22617,43 +22617,43 @@
 			"italic": {
 				"300": {
 					"local": [
-						"'Open Sans Cond Light Italic'",
-						"'OpenSans-CondensedLightItalic'"
+						"'Open Sans Condensed Light Italic'",
+						"'OpenSansCondensed-LightItalic'"
 					],
 					"url": {
-						"eot": "http://fonts.gstatic.com/s/opensanscondensed/v10/jIXlqT1WKafUSwj6s9AzV_mEZO9oFUxRsIusPr8huSn3rGVtsTkPsbDajuO5ueQw.eot",
-						"svg": "http://fonts.gstatic.com/l/font?kit=jIXlqT1WKafUSwj6s9AzV3kkM9H8oAIzQd0p0uSqt8j3rGVtsTkPsbDajuO5ueQw&skey=fd360ef3f3018d5d&v=v10#OpenSansCondensed",
-						"ttf": "http://fonts.gstatic.com/s/opensanscondensed/v10/jIXlqT1WKafUSwj6s9AzV6-Pg0ixc20mZJdRQiuQhCr3rGVtsTkPsbDajuO5ueQw.ttf",
-						"woff": "http://fonts.gstatic.com/s/opensanscondensed/v10/jIXlqT1WKafUSwj6s9AzV6XnXbwdDC8wAz6IIzmCDUP3rGVtsTkPsbDajuO5ueQw.woff",
-						"woff2": "http://fonts.gstatic.com/s/opensanscondensed/v10/jIXlqT1WKafUSwj6s9AzVyqWG1TIildrkra2taUxHyT3rGVtsTkPsbDajuO5ueQw.woff2"
+						"eot": "http://fonts.gstatic.com/s/opensanscondensed/v11/jIXlqT1WKafUSwj6s9AzV_mEZO9oFUxRsIusPr8huSn3rGVtsTkPsbDajuO5ueQw.eot",
+						"svg": "http://fonts.gstatic.com/l/font?kit=jIXlqT1WKafUSwj6s9AzV3kkM9H8oAIzQd0p0uSqt8j3rGVtsTkPsbDajuO5ueQw&skey=fd360ef3f3018d5d&v=v11#OpenSansCondensed",
+						"ttf": "http://fonts.gstatic.com/s/opensanscondensed/v11/jIXlqT1WKafUSwj6s9AzV6-Pg0ixc20mZJdRQiuQhCr3rGVtsTkPsbDajuO5ueQw.ttf",
+						"woff": "http://fonts.gstatic.com/s/opensanscondensed/v11/jIXlqT1WKafUSwj6s9AzV6XnXbwdDC8wAz6IIzmCDUP3rGVtsTkPsbDajuO5ueQw.woff",
+						"woff2": "http://fonts.gstatic.com/s/opensanscondensed/v11/jIXlqT1WKafUSwj6s9AzVyqWG1TIildrkra2taUxHyT3rGVtsTkPsbDajuO5ueQw.woff2"
 					}
 				}
 			},
 			"normal": {
 				"300": {
 					"local": [
-						"'Open Sans Cond Light'",
-						"'OpenSans-CondensedLight'"
+						"'Open Sans Condensed Light'",
+						"'OpenSansCondensed-Light'"
 					],
 					"url": {
-						"eot": "http://fonts.gstatic.com/s/opensanscondensed/v10/gk5FxslNkTTHtojXrkp-xOnoCx_jK1JUF_-5xuexfsU.eot",
-						"svg": "http://fonts.gstatic.com/l/font?kit=gk5FxslNkTTHtojXrkp-xHWv8Nzt8mDniOqXwxRfZic&skey=2f86f64984be1bbf&v=v10#OpenSansCondensed",
-						"ttf": "http://fonts.gstatic.com/s/opensanscondensed/v10/gk5FxslNkTTHtojXrkp-xD1GzwQ5qF9DNzkQQVRhJ4g.ttf",
-						"woff": "http://fonts.gstatic.com/s/opensanscondensed/v10/gk5FxslNkTTHtojXrkp-xF1YPouZEKgzpqZW9wN-3Ek.woff",
-						"woff2": "http://fonts.gstatic.com/s/opensanscondensed/v10/gk5FxslNkTTHtojXrkp-xBEur64QvLD-0IbiAdTUNXE.woff2"
+						"eot": "http://fonts.gstatic.com/s/opensanscondensed/v11/gk5FxslNkTTHtojXrkp-xOnoCx_jK1JUF_-5xuexfsU.eot",
+						"svg": "http://fonts.gstatic.com/l/font?kit=gk5FxslNkTTHtojXrkp-xHWv8Nzt8mDniOqXwxRfZic&skey=2f86f64984be1bbf&v=v11#OpenSansCondensed",
+						"ttf": "http://fonts.gstatic.com/s/opensanscondensed/v11/gk5FxslNkTTHtojXrkp-xD1GzwQ5qF9DNzkQQVRhJ4g.ttf",
+						"woff": "http://fonts.gstatic.com/s/opensanscondensed/v11/gk5FxslNkTTHtojXrkp-xF1YPouZEKgzpqZW9wN-3Ek.woff",
+						"woff2": "http://fonts.gstatic.com/s/opensanscondensed/v11/gk5FxslNkTTHtojXrkp-xBEur64QvLD-0IbiAdTUNXE.woff2"
 					}
 				},
 				"700": {
 					"local": [
 						"'Open Sans Condensed Bold'",
-						"'OpenSans-CondensedBold'"
+						"'OpenSansCondensed-Bold'"
 					],
 					"url": {
-						"eot": "http://fonts.gstatic.com/s/opensanscondensed/v10/gk5FxslNkTTHtojXrkp-xK1G_hHhJSbmG3TYw9dbn0A.eot",
-						"svg": "http://fonts.gstatic.com/l/font?kit=gk5FxslNkTTHtojXrkp-xF_KRdOo7MPcl77ahlJwp_0&skey=695af3be40ce75bf&v=v10#OpenSansCondensed",
-						"ttf": "http://fonts.gstatic.com/s/opensanscondensed/v10/gk5FxslNkTTHtojXrkp-xJhsE6jcpsD2oq89kgohWx0.ttf",
-						"woff": "http://fonts.gstatic.com/s/opensanscondensed/v10/gk5FxslNkTTHtojXrkp-xONSK5BxN3NFS4EJkViHIqo.woff",
-						"woff2": "http://fonts.gstatic.com/s/opensanscondensed/v10/gk5FxslNkTTHtojXrkp-xIF8zhZCJ7x9Pr62cRgaVUA.woff2"
+						"eot": "http://fonts.gstatic.com/s/opensanscondensed/v11/gk5FxslNkTTHtojXrkp-xK1G_hHhJSbmG3TYw9dbn0A.eot",
+						"svg": "http://fonts.gstatic.com/l/font?kit=gk5FxslNkTTHtojXrkp-xF_KRdOo7MPcl77ahlJwp_0&skey=695af3be40ce75bf&v=v11#OpenSansCondensed",
+						"ttf": "http://fonts.gstatic.com/s/opensanscondensed/v11/gk5FxslNkTTHtojXrkp-xJhsE6jcpsD2oq89kgohWx0.ttf",
+						"woff": "http://fonts.gstatic.com/s/opensanscondensed/v11/gk5FxslNkTTHtojXrkp-xONSK5BxN3NFS4EJkViHIqo.woff",
+						"woff2": "http://fonts.gstatic.com/s/opensanscondensed/v11/gk5FxslNkTTHtojXrkp-xIF8zhZCJ7x9Pr62cRgaVUA.woff2"
 					}
 				}
 			}
@@ -23931,15 +23931,15 @@
 			"normal": {
 				"400": {
 					"local": [
-						"'Paytone One'",
-						"'PaytoneOne'"
+						"'Paytone One Regular'",
+						"'PaytoneOne-Regular'"
 					],
 					"url": {
-						"eot": "http://fonts.gstatic.com/s/paytoneone/v8/D_d4Nj6jwG2cmUCLYeqgKWfQcKutQXcIrRfyR5jdjY8.eot",
-						"svg": "http://fonts.gstatic.com/l/font?kit=D_d4Nj6jwG2cmUCLYeqgKXNsigHlcrQGNV8nkUSFQfc&skey=f6917b7c19023a20&v=v8#PaytoneOne",
-						"ttf": "http://fonts.gstatic.com/s/paytoneone/v8/D_d4Nj6jwG2cmUCLYeqgKZ0EAVxt0G0biEntp43Qt6E.ttf",
-						"woff": "http://fonts.gstatic.com/s/paytoneone/v8/D_d4Nj6jwG2cmUCLYeqgKYbN6UDyHWBl620a-IRfuBk.woff",
-						"woff2": "http://fonts.gstatic.com/s/paytoneone/v8/D_d4Nj6jwG2cmUCLYeqgKY4P5ICox8Kq3LLUNMylGO4.woff2"
+						"eot": "http://fonts.gstatic.com/s/paytoneone/v9/D_d4Nj6jwG2cmUCLYeqgKWfQcKutQXcIrRfyR5jdjY8.eot",
+						"svg": "http://fonts.gstatic.com/l/font?kit=D_d4Nj6jwG2cmUCLYeqgKXNsigHlcrQGNV8nkUSFQfc&skey=f6917b7c19023a20&v=v9#PaytoneOne",
+						"ttf": "http://fonts.gstatic.com/s/paytoneone/v9/D_d4Nj6jwG2cmUCLYeqgKZ0EAVxt0G0biEntp43Qt6E.ttf",
+						"woff": "http://fonts.gstatic.com/s/paytoneone/v9/D_d4Nj6jwG2cmUCLYeqgKYbN6UDyHWBl620a-IRfuBk.woff",
+						"woff2": "http://fonts.gstatic.com/s/paytoneone/v9/D_d4Nj6jwG2cmUCLYeqgKY4P5ICox8Kq3LLUNMylGO4.woff2"
 					}
 				}
 			}
@@ -24016,7 +24016,7 @@
 						"svg": "http://fonts.gstatic.com/l/font?kit=9vYsg5VgPHKK8SXYbf3sMnun_M_OMvfRqqwdtVuHdps&skey=84f486597b8007d1&v=v5#PermanentMarker",
 						"ttf": "http://fonts.gstatic.com/s/permanentmarker/v5/9vYsg5VgPHKK8SXYbf3sMrg27BfaRSB61e9iDGqjWqk.ttf",
 						"woff": "http://fonts.gstatic.com/s/permanentmarker/v5/9vYsg5VgPHKK8SXYbf3sMupm9E4gBdgiUiSJePew_SQ.woff",
-						"woff2": "http://fonts.gstatic.com/s/permanentmarker/v5/9vYsg5VgPHKK8SXYbf3sMsW72xVeg1938eUHStY_AJ4.woff2"
+						"woff2": "http://fonts.gstatic.com/stats/Permanent+Marker/normal/400"
 					}
 				}
 			}
@@ -24695,11 +24695,11 @@
 						"'Poppins-Light'"
 					],
 					"url": {
-						"eot": "http://fonts.gstatic.com/s/poppins/v2/D2gN9uyZ9Ucx1fJ1Fhb7s1QlYEbsez9cZjKsNMjLOwM.eot",
-						"svg": "http://fonts.gstatic.com/l/font?kit=D2gN9uyZ9Ucx1fJ1Fhb7s6WUboTb-jS2tyCOQMtm97g&skey=4aabc5055a39e031&v=v2#Poppins",
-						"ttf": "http://fonts.gstatic.com/s/poppins/v2/D2gN9uyZ9Ucx1fJ1Fhb7sy3USBnSvpkopQaUR-2r7iU.ttf",
-						"woff": "http://fonts.gstatic.com/s/poppins/v2/D2gN9uyZ9Ucx1fJ1Fhb7sxsxEYwM7FgeyaSgU71cLG0.woff",
-						"woff2": "http://fonts.gstatic.com/s/poppins/v2/D2gN9uyZ9Ucx1fJ1Fhb7s_k_vArhqVIZ0nv9q090hN8.woff2"
+						"eot": "http://fonts.gstatic.com/s/poppins/v3/D2gN9uyZ9Ucx1fJ1Fhb7s1QlYEbsez9cZjKsNMjLOwM.eot",
+						"svg": "http://fonts.gstatic.com/l/font?kit=D2gN9uyZ9Ucx1fJ1Fhb7s6WUboTb-jS2tyCOQMtm97g&skey=4aabc5055a39e031&v=v3#Poppins",
+						"ttf": "http://fonts.gstatic.com/s/poppins/v3/D2gN9uyZ9Ucx1fJ1Fhb7sy3USBnSvpkopQaUR-2r7iU.ttf",
+						"woff": "http://fonts.gstatic.com/s/poppins/v3/D2gN9uyZ9Ucx1fJ1Fhb7sxsxEYwM7FgeyaSgU71cLG0.woff",
+						"woff2": "http://fonts.gstatic.com/s/poppins/v3/D2gN9uyZ9Ucx1fJ1Fhb7s_k_vArhqVIZ0nv9q090hN8.woff2"
 					}
 				},
 				"400": {
@@ -24708,11 +24708,11 @@
 						"'Poppins-Regular'"
 					],
 					"url": {
-						"eot": "http://fonts.gstatic.com/s/poppins/v2/olDgTpKzK_Gc4BNFKks84g.eot",
-						"svg": "http://fonts.gstatic.com/l/font?kit=j_KvOvu4ZZaZ9f72G1iz0Q&skey=87759fb096548f6d&v=v2#Poppins",
-						"ttf": "http://fonts.gstatic.com/s/poppins/v2/TDTjCH39JjVycIF24TlO-Q.ttf",
-						"woff": "http://fonts.gstatic.com/s/poppins/v2/SFusu2OSFiUt40t5QNWvnA.woff",
-						"woff2": "http://fonts.gstatic.com/s/poppins/v2/HLBysyo0MQBO_7E-DWLwzg.woff2"
+						"eot": "http://fonts.gstatic.com/s/poppins/v3/olDgTpKzK_Gc4BNFKks84g.eot",
+						"svg": "http://fonts.gstatic.com/l/font?kit=j_KvOvu4ZZaZ9f72G1iz0Q&skey=87759fb096548f6d&v=v3#Poppins",
+						"ttf": "http://fonts.gstatic.com/s/poppins/v3/TDTjCH39JjVycIF24TlO-Q.ttf",
+						"woff": "http://fonts.gstatic.com/s/poppins/v3/SFusu2OSFiUt40t5QNWvnA.woff",
+						"woff2": "http://fonts.gstatic.com/s/poppins/v3/HLBysyo0MQBO_7E-DWLwzg.woff2"
 					}
 				},
 				"500": {
@@ -24721,11 +24721,11 @@
 						"'Poppins-Medium'"
 					],
 					"url": {
-						"eot": "http://fonts.gstatic.com/s/poppins/v2/yQWaOD4iNU5NTY0apN-qj1QlYEbsez9cZjKsNMjLOwM.eot",
-						"svg": "http://fonts.gstatic.com/l/font?kit=yQWaOD4iNU5NTY0apN-qj6WUboTb-jS2tyCOQMtm97g&skey=d4526a9b64c21b87&v=v2#Poppins",
-						"ttf": "http://fonts.gstatic.com/s/poppins/v2/yQWaOD4iNU5NTY0apN-qjy3USBnSvpkopQaUR-2r7iU.ttf",
-						"woff": "http://fonts.gstatic.com/s/poppins/v2/yQWaOD4iNU5NTY0apN-qjxsxEYwM7FgeyaSgU71cLG0.woff",
-						"woff2": "http://fonts.gstatic.com/s/poppins/v2/yQWaOD4iNU5NTY0apN-qj_k_vArhqVIZ0nv9q090hN8.woff2"
+						"eot": "http://fonts.gstatic.com/s/poppins/v3/yQWaOD4iNU5NTY0apN-qj1QlYEbsez9cZjKsNMjLOwM.eot",
+						"svg": "http://fonts.gstatic.com/l/font?kit=yQWaOD4iNU5NTY0apN-qj6WUboTb-jS2tyCOQMtm97g&skey=d4526a9b64c21b87&v=v3#Poppins",
+						"ttf": "http://fonts.gstatic.com/s/poppins/v3/yQWaOD4iNU5NTY0apN-qjy3USBnSvpkopQaUR-2r7iU.ttf",
+						"woff": "http://fonts.gstatic.com/s/poppins/v3/yQWaOD4iNU5NTY0apN-qjxsxEYwM7FgeyaSgU71cLG0.woff",
+						"woff2": "http://fonts.gstatic.com/s/poppins/v3/yQWaOD4iNU5NTY0apN-qj_k_vArhqVIZ0nv9q090hN8.woff2"
 					}
 				},
 				"600": {
@@ -24734,11 +24734,11 @@
 						"'Poppins-SemiBold'"
 					],
 					"url": {
-						"eot": "http://fonts.gstatic.com/s/poppins/v2/zO07Oxe3SOlw0l2YX2sdIVQlYEbsez9cZjKsNMjLOwM.eot",
-						"svg": "http://fonts.gstatic.com/l/font?kit=zO07Oxe3SOlw0l2YX2sdIaWUboTb-jS2tyCOQMtm97g&skey=ce7ef9d62ca89319&v=v2#Poppins",
-						"ttf": "http://fonts.gstatic.com/s/poppins/v2/zO07Oxe3SOlw0l2YX2sdIS3USBnSvpkopQaUR-2r7iU.ttf",
-						"woff": "http://fonts.gstatic.com/s/poppins/v2/zO07Oxe3SOlw0l2YX2sdIRsxEYwM7FgeyaSgU71cLG0.woff",
-						"woff2": "http://fonts.gstatic.com/s/poppins/v2/zO07Oxe3SOlw0l2YX2sdIfk_vArhqVIZ0nv9q090hN8.woff2"
+						"eot": "http://fonts.gstatic.com/s/poppins/v3/zO07Oxe3SOlw0l2YX2sdIVQlYEbsez9cZjKsNMjLOwM.eot",
+						"svg": "http://fonts.gstatic.com/l/font?kit=zO07Oxe3SOlw0l2YX2sdIaWUboTb-jS2tyCOQMtm97g&skey=ce7ef9d62ca89319&v=v3#Poppins",
+						"ttf": "http://fonts.gstatic.com/s/poppins/v3/zO07Oxe3SOlw0l2YX2sdIS3USBnSvpkopQaUR-2r7iU.ttf",
+						"woff": "http://fonts.gstatic.com/s/poppins/v3/zO07Oxe3SOlw0l2YX2sdIRsxEYwM7FgeyaSgU71cLG0.woff",
+						"woff2": "http://fonts.gstatic.com/s/poppins/v3/zO07Oxe3SOlw0l2YX2sdIfk_vArhqVIZ0nv9q090hN8.woff2"
 					}
 				},
 				"700": {
@@ -24747,11 +24747,11 @@
 						"'Poppins-Bold'"
 					],
 					"url": {
-						"eot": "http://fonts.gstatic.com/s/poppins/v2/57TQ-anwthzkETEIO4jESFQlYEbsez9cZjKsNMjLOwM.eot",
-						"svg": "http://fonts.gstatic.com/l/font?kit=57TQ-anwthzkETEIO4jESKWUboTb-jS2tyCOQMtm97g&skey=cea76fe63715a67a&v=v2#Poppins",
-						"ttf": "http://fonts.gstatic.com/s/poppins/v2/57TQ-anwthzkETEIO4jESC3USBnSvpkopQaUR-2r7iU.ttf",
-						"woff": "http://fonts.gstatic.com/s/poppins/v2/57TQ-anwthzkETEIO4jESBsxEYwM7FgeyaSgU71cLG0.woff",
-						"woff2": "http://fonts.gstatic.com/s/poppins/v2/57TQ-anwthzkETEIO4jESPk_vArhqVIZ0nv9q090hN8.woff2"
+						"eot": "http://fonts.gstatic.com/s/poppins/v3/57TQ-anwthzkETEIO4jESFQlYEbsez9cZjKsNMjLOwM.eot",
+						"svg": "http://fonts.gstatic.com/l/font?kit=57TQ-anwthzkETEIO4jESKWUboTb-jS2tyCOQMtm97g&skey=cea76fe63715a67a&v=v3#Poppins",
+						"ttf": "http://fonts.gstatic.com/s/poppins/v3/57TQ-anwthzkETEIO4jESC3USBnSvpkopQaUR-2r7iU.ttf",
+						"woff": "http://fonts.gstatic.com/s/poppins/v3/57TQ-anwthzkETEIO4jESBsxEYwM7FgeyaSgU71cLG0.woff",
+						"woff2": "http://fonts.gstatic.com/s/poppins/v3/57TQ-anwthzkETEIO4jESPk_vArhqVIZ0nv9q090hN8.woff2"
 					}
 				}
 			}
